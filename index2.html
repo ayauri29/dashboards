@@ -255,10 +255,10 @@
 		// Set up custom heat map legend labels using axis ranges
 		var minRange2 = heatLegend2.valueAxis.axisRanges.create();
 		minRange2.value = heatLegend2.minValue;
-		minRange2.label.text = "poco";
+		minRange2.label.text = "0";
 		var maxRange2 = heatLegend2.valueAxis.axisRanges.create();
 		maxRange2.value = heatLegend2.maxValue;
-		maxRange2.label.text = "mucho!";
+		maxRange2.label.text = "100";
 		// Blank out internal heat legend value axis labels
 		heatLegend2.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
 			console.log(labelText, 'label text')
@@ -360,10 +360,10 @@
 		// Set up custom heat map legend labels using axis ranges
 		var minRange = heatLegend.valueAxis.axisRanges.create();
 		minRange.value = heatLegend.minValue;
-		minRange.label.text = "Little";
+		minRange.label.text = "0";
 		var maxRange = heatLegend.valueAxis.axisRanges.create();
 		maxRange.value = heatLegend.maxValue;
-		maxRange.label.text = "A lot!";
+		maxRange.label.text = "100";
 
 		// Blank out internal heat legend value axis labels
 		heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
