@@ -1,0 +1,102 @@
+[
+    {
+      "id_dep": 1,
+      "nombre_dep": "Amazonas"
+    },
+    {
+      "id_dep": 2,
+      "nombre_dep": "Áncash"
+    },
+    {
+      "id_dep": 3,
+      "nombre_dep": "Apurímac"
+    },
+    {
+      "id_dep": 4,
+      "nombre_dep": "Arequipa"
+    },
+    {
+      "id_dep": 5,
+      "nombre_dep": "Ayacucho"
+    },
+    {
+      "id_dep": 6,
+      "nombre_dep": "Cajamarca"
+    },
+    {
+      "id_dep": 7,
+      "nombre_dep": "Callao"
+    },
+    {
+      "id_dep": 8,
+      "nombre_dep": "Cusco"
+    },
+    {
+      "id_dep": 9,
+      "nombre_dep": "Huancavelica"
+    },
+    {
+      "id_dep": 10,
+      "nombre_dep": "Huánuco"
+    },
+    {
+      "id_dep": 11,
+      "nombre_dep": "Ica"
+    },
+    {
+      "id_dep": 12,
+      "nombre_dep": "Junín"
+    },
+    {
+      "id_dep": 13,
+      "nombre_dep": "La Libertad"
+    },
+    {
+      "id_dep": 14,
+      "nombre_dep": "Lambayeque"
+    },
+    {
+      "id_dep": 15,
+      "nombre_dep": "Lima"
+    },
+    {
+      "id_dep": 16,
+      "nombre_dep": "Loreto"
+    },
+    {
+      "id_dep": 17,
+      "nombre_dep": "Madre de Dios"
+    },
+    {
+      "id_dep": 18,
+      "nombre_dep": "Moquegua"
+    },
+    {
+      "id_dep": 19,
+      "nombre_dep": "Pasco"
+    },
+    {
+      "id_dep": 20,
+      "nombre_dep": "Piura"
+    },
+    {
+      "id_dep": 21,
+      "nombre_dep": "Puno"
+    },
+    {
+      "id_dep": 22,
+      "nombre_dep": "San Martín"
+    },
+    {
+      "id_dep": 23,
+      "nombre_dep": "Tacna"
+    },
+    {
+      "id_dep": 24,
+      "nombre_dep": "Tumbes"
+    },
+    {
+      "id_dep": 25,
+      "nombre_dep": "Ucayali"
+    }
+   ]

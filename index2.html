@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+	<script src="//www.amcharts.com/lib/4/charts.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/maps.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/geodata/worldLow.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/geodata/data/countries2.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+	<script src="https://www.amcharts.com/lib/4/geodata/peruHigh.js"></script>
+</head>
+
+<body>
+	<div id="chartdiv"></div>
+</body>
+<script>
+
+	am4core.ready(function () {
+		const array = [
+			{
+				"id_dep": "PE-AMA",
+				"nombre_dep": "Amazonas",
+				"value": 10
+			},
+			{
+				"id_dep": "PE-ANC",
+				"nombre_dep": "Áncash",
+				"value": 20
+			},
+			{
+				"id_dep": "PE-APU",
+				"nombre_dep": "Apurímac",
+				"value": 30
+			},
+			{
+				"id_dep": "PE-ARE",
+				"nombre_dep": "Arequipa",
+				"value": 15
+			},
+			{
+				"id_dep": 5,
+				"nombre_dep": "Ayacucho"
+			},
+			{
+				"id_dep": 6,
+				"nombre_dep": "Cajamarca"
+			},
+			{
+				"id_dep": 7,
+				"nombre_dep": "Callao"
+			},
+			{
+				"id_dep": 8,
+				"nombre_dep": "Cusco"
+			},
+			{
+				"id_dep": 9,
+				"nombre_dep": "Huancavelica"
+			},
+			{
+				"id_dep": 10,
+				"nombre_dep": "Huánuco"
+			},
+			{
+				"id_dep": 11,
+				"nombre_dep": "Ica"
+			},
+			{
+				"id_dep": 12,
+				"nombre_dep": "Junín"
+			},
+			{
+				"id_dep": 13,
+				"nombre_dep": "La Libertad"
+			},
+			{
+				"id_dep": 14,
+				"nombre_dep": "Lambayeque"
+			},
+			{
+				"id_dep": "PE-LIM",
+				"nombre_dep": "Lima",
+				"value": 50
+			},
+			{
+				"id_dep": 16,
+				"nombre_dep": "Loreto"
+			},
+			{
+				"id_dep": 17,
+				"nombre_dep": "Madre de Dios"
+			},
+			{
+				"id_dep": 18,
+				"nombre_dep": "Moquegua"
+			},
+			{
+				"id_dep": 19,
+				"nombre_dep": "Pasco"
+			},
+			{
+				"id_dep": 20,
+				"nombre_dep": "Piura"
+			},
+			{
+				"id_dep": 21,
+				"nombre_dep": "Puno"
+			},
+			{
+				"id_dep": 22,
+				"nombre_dep": "San Martín"
+			},
+			{
+				"id_dep": 23,
+				"nombre_dep": "Tacna"
+			},
+			{
+				"id_dep": 24,
+				"nombre_dep": "Tumbes"
+			},
+			{
+				"id_dep": 25,
+				"nombre_dep": "Ucayali"
+			}
+		]
+		const arrayBonos = [{
+			"id": "AQP-01",
+			"value": 10
+		},
+		{
+			"id": "AQP-02",
+			"value": 20
+		},
+		{
+			"id": "AQP-03",
+			"value": 30
+		},
+		{
+			"id": "AQP-04",
+			"value": 40
+		},
+		{
+			"id": "AQP-05",
+			"value": 50
+		}, {
+			"id": "AQP-06",
+			"value": 60
+		}
+		]
+		// Themes begin
+		am4core.useTheme(am4themes_animated);
+		// Themes end
+
+		// Create map instance
+		var chart = am4core.create("chartdiv", am4maps.MapChart);
+
+		// Set up data source
+
+
+		// chart.dataSource.parser = new am4core.JSONParser();
+		// chart.dataSource.parser.options.emptyAs = 0;
+
+		console.log(chart, ' ingreso data')
+		chart.projection = new am4maps.projections.Miller();
+
+		// // Add zoom control
+		// Create map polygon series for world map
+		var worldSeries = chart.series.push(new am4maps.MapPolygonSeries());
+		worldSeries.useGeodata = true;
+		// worldSeries.geodata = am4geodata_worldLow;
+		chart.geodata = am4geodata_peruHigh;
+		// worldSeries.exclude = ["AQ"];
+
+		var worldPolygon = worldSeries.mapPolygons.template;
+		worldPolygon.tooltipText = "{name}";
+		worldPolygon.nonScalingStroke = true;
+		worldPolygon.strokeOpacity = 0.5;
+		worldPolygon.fill = am4core.color("#eee");
+		worldPolygon.propertyFields.fill = "color";
+
+		var hs = worldPolygon.states.create("hover");
+		hs.properties.fill = chart.colors.getIndex(9);
+
+
+
+		// /******new*/
+		// var chart = am4core.create("chartdiv", am4maps.MapChart);
+
+		// Set map definition
+		// chart.geodata = am4geodata_peruHigh;
+
+		// chart.geodataSource.url = "./peru_departamental_simple.geojson";
+
+		// Set projection
+		// chart.projection = new am4maps.projections.Miller();
+
+		// Create map polygon series
+		// var polygonSeries = chart.series.push(new am4maps.MapPolygonSeries());
+
+		// Make map load polygon (like country names) data from GeoJSON
+		// polygonSeries.useGeodata = true;
+
+		// Configure series
+		// var polygonTemplate = polygonSeries.mapPolygons.template;
+		// polygonTemplate.tooltipText = "{name}";
+		// polygonTemplate.fill = am4core.color("#74B266");
+
+		// Create hover state and set alternative fill color
+		// var hs = polygonTemplate.states.create("hover");
+		// hs.properties.fill = am4core.color("#367B25");
+
+		// // Add zoom control
+		// chart.zoomControl = new am4maps.ZoomControl();
+
+
+		// Create country specific series (but hide it for now)
+		var countrySeries = chart.series.push(new am4maps.MapPolygonSeries());
+		countrySeries.useGeodata = true;
+		countrySeries.hide();
+		countrySeries.geodataSource.events.on("done", function (ev) {
+			worldSeries.hide();
+			countrySeries.show();
+		});
+
+		var countryPolygon = countrySeries.mapPolygons.template;
+		countryPolygon.tooltipText = "{NOMBPROV} {value}";
+		countryPolygon.nonScalingStroke = true;
+		countryPolygon.strokeOpacity = 0.5;
+		countryPolygon.fill = am4core.color("#eee");
+
+		// var hs = countryPolygon.states.create("hover");
+		// hs.properties.fill = chart.colors.getIndex(9);
+
+		// second heat map
+		countrySeries.heatRules.push({
+			property: "fill",
+			target: countrySeries.mapPolygons.template,
+			min: chart.colors.getIndex(1).brighten(1),
+			max: chart.colors.getIndex(1).brighten(-0.3)
+		});
+
+		let heatLegend2 = chart.createChild(am4maps.HeatLegend);
+		heatLegend2.series = countrySeries;
+		heatLegend2.align = "right";
+		heatLegend2.valign = "bottom";
+		heatLegend2.width = am4core.percent(20);
+		heatLegend2.marginRight = am4core.percent(4);
+		heatLegend2.minValue = 0;
+		heatLegend2.maxValue = 4000;
+
+		// Set up custom heat map legend labels using axis ranges
+		var minRange2 = heatLegend2.valueAxis.axisRanges.create();
+		minRange2.value = heatLegend2.minValue;
+		minRange2.label.text = "poco";
+		var maxRange2 = heatLegend2.valueAxis.axisRanges.create();
+		maxRange2.value = heatLegend2.maxValue;
+		maxRange2.label.text = "mucho!";
+		// Blank out internal heat legend value axis labels
+		heatLegend2.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
+			console.log(labelText, 'label text')
+			return "";
+		});
+
+		// Configure series tooltip
+		var polygonTemplate2 = countrySeries.mapPolygons.template;
+		polygonTemplate2.tooltipText = "{NOMBPROV}: {value} recibieron bono";
+		polygonTemplate2.nonScalingStroke = true;
+		polygonTemplate2.strokeWidth = 0.5;
+
+		// Create hover state and set alternative fill color
+		var hs = polygonTemplate2.states.create("hover");
+		hs.properties.fill = am4core.color("#3c5bdc");
+		heatLegend2.hide()
+
+
+		// Set up click events
+		worldPolygon.events.on("hit", function (ev) {
+			heatLegend.hide()
+
+			heatLegend2.show()
+
+			ev.target.series.chart.zoomToMapObject(ev.target);
+			console.log(ev.target, 'target')
+			var map = ev.target.dataItem.dataContext.name;
+			console.log(map, 'map')
+
+
+
+			if (map) {
+				console.log('entre???')
+				ev.target.isHover = false;
+				countrySeries.geodataSource.url = `./provincias/${map}.json`;
+				countrySeries.geodataSource.load();
+				countrySeries.events.on("datavalidated", function () {
+					countrySeries.mapPolygons.each(function (polygon, index) {
+						countrySeries.data.forEach(data => {
+							data.value = Math.random() * (100 - 10) + 10
+						});
+						// console.log(countrySeries)
+						// Learn more about ColorSets:
+						// {@link https://www.amcharts.com/docs/v4/concepts/colors/#Color_sets}
+						// polygon.fill = chart.colors.getIndex(index);
+						// heat map second map
+
+					});
+				});
+			}
+		});
+
+		// set data
+		console.log(am4geodata_peruHigh, 'world series')
+		// Set up data for countries
+		var data = [];
+
+		for (let i = 0; i < am4geodata_peruHigh.features.length; i++) {
+
+			// if (am4geodata_peruHigh.hasOwnProperty(id)) {
+			// 	var country = am4geodata_peruHigh['id'];
+			// 	console.log(country, 'departmen')
+
+			const dataFiltered = array.filter(a => a.id_dep === am4geodata_peruHigh.features[i].id)
+			console.log(dataFiltered[0], 'data filtrada')
+			if (dataFiltered[0] !== undefined) {
+				data.push({
+					id: am4geodata_peruHigh.features[i].id,
+					value: dataFiltered[0].value
+				});
+			} else {
+				data.push({
+					id: am4geodata_peruHigh.features[i].id,
+					value: 0
+				});
+			}
+			// }
+		}
+		worldSeries.data = data;
+		console.log(worldSeries.data, 'dataaaa')
+
+		// heat map first map
+		worldSeries.heatRules.push({
+			property: "fill",
+			target: worldSeries.mapPolygons.template,
+			min: chart.colors.getIndex(1).brighten(1),
+			max: chart.colors.getIndex(1).brighten(-0.3)
+		});
+
+		let heatLegend = chart.createChild(am4maps.HeatLegend);
+		heatLegend.series = worldSeries;
+		heatLegend.align = "right";
+		heatLegend.valign = "bottom";
+		heatLegend.width = am4core.percent(20);
+		heatLegend.marginRight = am4core.percent(4);
+		heatLegend.minValue = 0;
+		heatLegend.maxValue = 40000000;
+
+		// Set up custom heat map legend labels using axis ranges
+		var minRange = heatLegend.valueAxis.axisRanges.create();
+		minRange.value = heatLegend.minValue;
+		minRange.label.text = "Little";
+		var maxRange = heatLegend.valueAxis.axisRanges.create();
+		maxRange.value = heatLegend.maxValue;
+		maxRange.label.text = "A lot!";
+
+		// Blank out internal heat legend value axis labels
+		heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
+			return "";
+		});
+
+
+
+
+
+		// Configure series tooltip
+		var polygonTemplate = worldSeries.mapPolygons.template;
+		polygonTemplate.tooltipText = "{name}: {value} recibieron bono";
+		polygonTemplate.nonScalingStroke = true;
+		polygonTemplate.strokeWidth = 0.5;
+
+		// Create hover state and set alternative fill color
+		var hs = polygonTemplate.states.create("hover");
+		hs.properties.fill = am4core.color("#3c5bdc");
+
+
+
+
+
+		// Zoom control
+		// chart.zoomControl = new am4maps.ZoomControl();
+
+		// var homeButton = new am4core.Button();
+		// homeButton.events.on("hit", function () {
+		// 	worldSeries.show();
+		// 	countrySeries.hide();
+		// 	chart.goHome();
+		// });
+
+		// homeButton.icon = new am4core.Sprite();
+		// homeButton.padding(7, 5, 7, 5);
+		// homeButton.width = 30;
+		// homeButton.icon.path = "M16,8 L14,8 L14,16 L10,16 L10,10 L6,10 L6,16 L2,16 L2,8 L0,8 L8,0 L16,8 Z M16,8";
+		// homeButton.marginBottom = 10;
+		// homeButton.parent = chart.zoomControl;
+		// homeButton.insertBefore(chart.zoomControl.plusButton);
+
+	}); // end am4core.ready()
+
+
+</script>
+<style>
+	body {
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	}
+
+	#chartdiv {
+		width: 100%;
+		height: 500px;
+	}
+</style>
+
+</html>
