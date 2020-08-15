@@ -4,6 +4,7 @@
         {
             "type": "Feature",
             "properties": {
+                "TYPE": "PROVINCIA",
                 "COUNT": 8,
                 "FIRST_IDPR": "0402",
                 "NOMBPROV": "CAMANA",
@@ -471,6 +472,7 @@
         {
             "type": "Feature",
             "properties": {
+                "TYPE": "PROVINCIA",
                 "COUNT": 13,
                 "FIRST_IDPR": "0403",
                 "NOMBPROV": "CARAVELI",
@@ -1514,6 +1516,7 @@
         {
             "type": "Feature",
             "properties": {
+                "TYPE": "PROVINCIA",
                 "COUNT": 14,
                 "FIRST_IDPR": "0404",
                 "NOMBPROV": "CASTILLA",
@@ -1769,6 +1772,7 @@
         {
             "type": "Feature",
             "properties": {
+                "TYPE": "PROVINCIA",
                 "COUNT": 20,
                 "FIRST_IDPR": "0405",
                 "NOMBPROV": "CAYLLOMA",
@@ -3160,6 +3164,7 @@
         {
             "type": "Feature",
             "properties": {
+                "TYPE": "PROVINCIA",
                 "COUNT": 8,
                 "FIRST_IDPR": "0406",
                 "NOMBPROV": "CONDESUYOS",
@@ -3507,6 +3512,7 @@
         {
             "type": "Feature",
             "properties": {
+                "TYPE": "PROVINCIA",
                 "COUNT": 6,
                 "FIRST_IDPR": "0407",
                 "NOMBPROV": "ISLAY",
@@ -4246,6 +4252,7 @@
         {
             "type": "Feature",
             "properties": {
+                "TYPE": "PROVINCIA",
                 "COUNT": 11,
                 "FIRST_IDPR": "0408",
                 "NOMBPROV": "LA UNION",
@@ -4629,6 +4636,7 @@
         {
             "type": "Feature",
             "properties": {
+                "TYPE": "PROVINCIA",
                 "COUNT": 29,
                 "FIRST_IDPR": "0401",
                 "NOMBPROV": "AREQUIPA",
