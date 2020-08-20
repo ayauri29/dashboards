@@ -5,6 +5,7 @@
 			"type": "Feature",
 			"id": "PU-01",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 15,
 				"FIRST_IDPR": "2102",
 				"NOMBPROV": "AZANGARO",
@@ -3380,6 +3381,7 @@
 			"type": "Feature",
 			"id": "PU-02",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 10,
 				"FIRST_IDPR": "2103",
 				"NOMBPROV": "CARABAYA",
@@ -4347,6 +4349,7 @@
 			"type": "Feature",
 			"id": "PU-03",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 7,
 				"FIRST_IDPR": "2104",
 				"NOMBPROV": "CHUCUITO",
@@ -4550,6 +4553,7 @@
 			"type": "Feature",
 			"id": "PU-04",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 5,
 				"FIRST_IDPR": "2105",
 				"NOMBPROV": "EL COLLAO",
@@ -5693,6 +5697,7 @@
 			"type": "Feature",
 			"id": "PU-05",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 8,
 				"FIRST_IDPR": "2106",
 				"NOMBPROV": "HUANCANE",
@@ -6132,6 +6137,7 @@
 			"type": "Feature",
 			"id": "PU-06",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 10,
 				"FIRST_IDPR": "2107",
 				"NOMBPROV": "LAMPA",
@@ -6947,6 +6953,7 @@
 			"type": "Feature",
 			"id": "PU-07",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 9,
 				"FIRST_IDPR": "2108",
 				"NOMBPROV": "MELGAR",
@@ -8326,6 +8333,7 @@
 			"type": "Feature",
 			"id": "PU-08",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 4,
 				"FIRST_IDPR": "2109",
 				"NOMBPROV": "MOHO",
@@ -8425,6 +8433,7 @@
 			"type": "Feature",
 			"id": "PU-09",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 15,
 				"FIRST_IDPR": "2101",
 				"NOMBPROV": "PUNO",
@@ -11146,6 +11155,7 @@
 			"type": "Feature",
 			"id": "PU-10",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 5,
 				"FIRST_IDPR": "2110",
 				"NOMBPROV": "SAN ANTONIO DE PUTINA",
@@ -12301,6 +12311,7 @@
 			"type": "Feature",
 			"id": "PU-11",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 4,
 				"FIRST_IDPR": "2111",
 				"NOMBPROV": "SAN ROMAN",
@@ -13564,6 +13575,7 @@
 			"type": "Feature",
 			"id": "PU-12",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 10,
 				"FIRST_IDPR": "2112",
 				"NOMBPROV": "SANDIA",
@@ -13831,6 +13843,7 @@
 			"type": "Feature",
 			"id": "PU-13",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 7,
 				"FIRST_IDPR": "2113",
 				"NOMBPROV": "YUNGUYO",

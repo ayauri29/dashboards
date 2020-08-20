@@ -5,6 +5,7 @@
 			"type": "Feature",
 			"id": "JU-01",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 6,
 				"FIRST_IDPR": "1203",
 				"NOMBPROV": "CHANCHAMAYO",
@@ -184,6 +185,7 @@
 			"type": "Feature",
 			"id": "JU-02",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 9,
 				"FIRST_IDPR": "1209",
 				"NOMBPROV": "CHUPACA",
@@ -287,6 +289,7 @@
 			"type": "Feature",
 			"id": "JU-03",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 15,
 				"FIRST_IDPR": "1202",
 				"NOMBPROV": "CONCEPCION",
@@ -502,6 +505,7 @@
 			"type": "Feature",
 			"id": "JU-04",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 28,
 				"FIRST_IDPR": "1201",
 				"NOMBPROV": "HUANCAYO",
@@ -745,6 +749,7 @@
 			"type": "Feature",
 			"id": "JU-05",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 34,
 				"FIRST_IDPR": "1204",
 				"NOMBPROV": "JAUJA",
@@ -944,6 +949,7 @@
 			"type": "Feature",
 			"id": "JU-06",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 8,
 				"FIRST_IDPR": "1206",
 				"NOMBPROV": "SATIPO",
@@ -1339,6 +1345,7 @@
 			"type": "Feature",
 			"id": "JU-07",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 9,
 				"FIRST_IDPR": "1207",
 				"NOMBPROV": "TARMA",
@@ -2810,6 +2817,7 @@
 			"type": "Feature",
 			"id": "JU-08",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 10,
 				"FIRST_IDPR": "1208",
 				"NOMBPROV": "YAULI",
@@ -3861,6 +3869,7 @@
 			"type": "Feature",
 			"id": "JU-09",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 4,
 				"FIRST_IDPR": "1205",
 				"NOMBPROV": "JUNIN",

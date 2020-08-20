@@ -5,6 +5,7 @@
 			"type": "Feature",
 			"id": "AY-01",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 6,
 				"FIRST_IDPR": "0502",
 				"NOMBPROV": "CANGALLO",
@@ -148,6 +149,7 @@
 			"type": "Feature",
 			"id": "AY-02",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 15,
 				"FIRST_IDPR": "0501",
 				"NOMBPROV": "HUAMANGA",
@@ -331,6 +333,7 @@
 			"type": "Feature",
 			"id": "AY-03",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 4,
 				"FIRST_IDPR": "0503",
 				"NOMBPROV": "HUANCA SANCOS",
@@ -474,6 +477,7 @@
 			"type": "Feature",
 			"id": "AY-04",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 8,
 				"FIRST_IDPR": "0504",
 				"NOMBPROV": "HUANTA",
@@ -653,6 +657,7 @@
 			"type": "Feature",
 			"id": "AY-05",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 8,
 				"FIRST_IDPR": "0505",
 				"NOMBPROV": "LA MAR",
@@ -832,6 +837,7 @@
 			"type": "Feature",
 			"id": "AY-06",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 21,
 				"FIRST_IDPR": "0506",
 				"NOMBPROV": "LUCANAS",
@@ -2743,6 +2749,7 @@
 			"type": "Feature",
 			"id": "AY-07",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 8,
 				"FIRST_IDPR": "0507",
 				"NOMBPROV": "PARINACOCHAS",
@@ -7056,6 +7063,7 @@
 			"type": "Feature",
 			"id": "AY-08",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 10,
 				"FIRST_IDPR": "0508",
 				"NOMBPROV": "PAUCAR DEL SARA SARA",
@@ -7975,6 +7983,7 @@
 			"type": "Feature",
 			"id": "AY-09",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 11,
 				"FIRST_IDPR": "0509",
 				"NOMBPROV": "SUCRE",
@@ -8090,6 +8099,7 @@
 			"type": "Feature",
 			"id": "AY-10",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 1,
 				"FIRST_IDPR": "0510",
 				"NOMBPROV": "VICTOR FAFARDO",
@@ -8161,6 +8171,7 @@
 			"type": "Feature",
 			"id": "AY-11",
 			"properties": {
+				"type": "PROVINCIA",
 				"COUNT": 8,
 				"FIRST_IDPR": "0511",
 				"NOMBPROV": "VILCASHUAMAN",

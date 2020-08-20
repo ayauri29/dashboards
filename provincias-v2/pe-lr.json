@@ -4,6 +4,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 8,
                 "FIRST_IDPR": "1501",
                 "NOMBPROV": "LIMA",
@@ -207,6 +208,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 1,
                 "FIRST_IDPR": "1502",
                 "NOMBPROV": "BARRANCA",
@@ -361,6 +363,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 2,
                 "FIRST_IDPR": "1503",
                 "NOMBPROV": "CAJATAMBO",
@@ -479,6 +482,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 3,
                 "FIRST_IDPR": "1504",
                 "NOMBPROV": "CANTA",
@@ -613,6 +617,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 4,
                 "FIRST_IDPR": "1505",
                 "NOMBPROV": "CAÑETE",
@@ -811,6 +816,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 5,
                 "FIRST_IDPR": "1506",
                 "NOMBPROV": "HUARAL",
@@ -993,6 +999,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 6,
                 "FIRST_IDPR": "1507",
                 "NOMBPROV": "HUAROCHIRI",
@@ -1223,6 +1230,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 7,
                 "FIRST_IDPR": "1508",
                 "NOMBPROV": "HUAURA",
@@ -1481,6 +1489,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 9,
                 "FIRST_IDPR": "1509",
                 "NOMBPROV": "OYON",
@@ -1619,6 +1628,7 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "PROVINCIA",
                 "COUNT": 10,
                 "FIRST_IDPR": "1510",
                 "NOMBPROV": "YAUYOS",
