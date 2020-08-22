@@ -1,0 +1,197 @@
+Departamento,Provincia,Canastas
+Amazonas,Chachapoyas,8737
+Amazonas,Bagua,4726
+Amazonas,Bongara,8475
+Amazonas,Condorcanqui,2121
+Amazonas,Luya,3232
+Amazonas,Rodriguez de Mendoza,8234
+Amazonas,Utcubamba,5235
+Ancash,Huaraz,5673
+Ancash,Aija,1737
+Ancash,Antonio Raymondi,2737
+Ancash,Asuncion,3737
+Ancash,Bolognesi,4726
+Ancash,Carhuaz,8475
+Ancash,Carlos Fermin Fitzcarrald,2121
+Ancash,Casma,3232
+Ancash,Corongo,2234
+Ancash,Huari,5235
+Ancash,Huarmey,4726
+Ancash,Huaylas,2423
+Ancash,Mariscal Luzuriaga,4726
+Ancash,Ocros,8475
+Ancash,Pallasca,4726
+Ancash,Pomabamba,8475
+Ancash,Recuay,4123
+Ancash,Santa,3470
+Ancash,Sihuas,4726
+Ancash,Yungay,3401
+Apurimac,Abancay,5323
+Apurimac,Andahuaylas,1470
+Apurimac,Antabamba,4726
+Apurimac,Aymaraes,2401
+Apurimac,Cotabambas,3201
+Apurimac,Chincheros,3611.5
+Apurimac,Grau,2109
+Arequipa,Arequipa,6323
+Arequipa,Camana,6470
+Arequipa,Caraveli,6888
+Arequipa,Castilla,2401
+Arequipa,Caylloma,3423
+Arequipa,Condesuyos,7611.5
+Arequipa,Islay,7878
+Arequipa,La Union,8133
+Ayacucho,Huamanga,7323
+Ayacucho,Cangallo,6567
+Ayacucho,Huanca Sancos,6309
+Ayacucho,Huanta,9676
+Ayacucho,La Mar,4567
+Ayacucho,Lucanas,4566
+Ayacucho,Parinacochas,3423
+Ayacucho,Sucre,5474
+Ayacucho,Víctor Fajardo,8345
+Ayacucho,Vilcas Huamán,8133
+Cajamarca,Cajamarca,3201
+Cajamarca,Cajabamba,3611.5
+Cajamarca,Celendin,2109
+Cajamarca,Chota,2109
+Cajamarca,Contumaza,7323
+Cajamarca,Cutervo,6567
+Cajamarca,Hualgayoc,6309
+Cajamarca,Jaen,9676
+Cajamarca,San Ignacio,4567
+Cajamarca,San Marcos,3201
+Cajamarca,San Pablo,2611.5
+Cajamarca,Santa Cruz,1109
+Callao,Prov. Const. del Callao,36939
+Cusco,Cusco,7323
+Cusco,Acomayo,6567
+Cusco,Anta,6309
+Cusco,Calca,9676
+Cusco,Canas,4567
+Cusco,Canchis,7611.5
+Cusco,Chumbivilcas,7878
+Cusco,Espinar,8133
+Cusco,La Convencion,5434
+Cusco,Paruro,3245
+Cusco,Paucartambo,6732
+Cusco,Quispicanchi,2597
+Cusco,Urubamba,3234
+Huancavelica,Huancavelica,4567
+Huancavelica,Acobamba,7611.5
+Huancavelica,Angaraes,4567
+Huancavelica,Castrovirreyna,4234
+Huancavelica,Churcampa,2342
+Huancavelica,Huaytara,7231
+Huancavelica,Tayacaja,2323
+HUANUCO,HUANUCO,2109
+HUANUCO,Ambo,7323
+HUANUCO,Dos de Mayo,5567
+HUANUCO,Huacaybamba,6309
+HUANUCO,Huamalíes,9676
+HUANUCO,Leoncio Prado,7611.5
+HUANUCO,Marañon,4567
+HUANUCO,Pachitea,3234
+HUANUCO,Puerto Inca,4567
+HUANUCO,Lauricocha,3434
+HUANUCO,Yarowilca,2342
+Ica,Ica,2434
+Ica,Chincha,1567
+Ica,Nasca,2422
+Ica,Palpa,2342
+Ica,Pisco,1654
+Junín,Huancayo,7611.5
+Junín,Concepción,3878
+Junín,Chanchamayo,3133
+Junín,Jauja,5434
+Junín,Junín,1567
+Junín,Satipo,2422
+Junín,Tarma,2342
+Junín,Yauli,6753
+Junín,Chupaca,1264
+La Libertad,Trujillo,7611.5
+La Libertad,Ascope,2878
+La Libertad,Bolivar,3133
+La Libertad,Chepen,5434
+La Libertad,Julcan,1537
+La Libertad,Otuzco,2422
+La Libertad,Pacasmayo,2342
+La Libertad,Pataz,6753
+La Libertad,Sánchez Carrion,1264
+La Libertad,Santiago de Chuco,1567
+La Libertad,Gran Chimu,2422
+La Libertad,Virú,2422
+Lambayeque,Chiclayo,6753
+Lambayeque,Ferreñafe,2264
+Lambayeque,Lambayeque,4211
+Lima,Lima,6790
+Lima,Barranca,8264
+Lima,Cajatambo,7323
+Lima,Canta,7699
+Lima,Cañete,9879
+Lima,Huaral,7288
+Lima,Huarochiri,9264
+Lima,Huaura,7989
+Lima,Oyon,8277
+Lima,Yauyos,7879
+Loreto,Maynas,6211
+Loreto,Alto Amazonas,5264
+Loreto,Loreto,7989
+Loreto,Mariscal Ramon Castilla,6234
+Loreto,Requena,7879
+Loreto,Ucayali,4279
+Loreto,Datem del Marañon,3690
+Loreto,Putumayo,4780
+Madre de Dios,Tambopata,4232
+Madre de Dios,Manu,3657
+Madre de Dios,Tahuamanu,2780
+Moquegua,Mariscal Nieto,4232
+Moquegua,General Sanchez Cerro,3657
+Moquegua,Ilo,6123
+Pasco,Pasco,6232
+Pasco,Daniel Alcides Carrion,3677
+Pasco,Oxapampa,3123
+Piura,Piura,8277
+Piura,Ayabaca,5354
+Piura,Huancabamba,7763
+Piura,Morropon,4232
+Piura,Paita,3657
+Piura,Sullana,7288
+Piura,Talara,9264
+Piura,Sechura,7989
+Puno,Puno,7288
+Puno,Azangaro,4264
+Puno,Carabaya,4324
+Puno,Chucuito,3288
+Puno,El Collao,4264
+Puno,Huancane,7989
+Puno,Lampa,4343
+Puno,Melgar,7288
+Puno,Moho,6264
+Puno,San Antonio de Putina,7989
+Puno,San Roman,8343
+Puno,Sandia,3232
+Puno,Yunguyo,3000
+San Martin,Moyobamba,4343
+San Martin,Bellavista,1288
+San Martin,El Dorado,2264
+San Martin,Huallaga,7989
+San Martin,Lamas,2343
+San Martin,Mariscal Caceres,3232
+San Martin,Picota,7989
+San Martin,Rioja,8343
+San Martin,San Martin,3232
+San Martin,Tocache,3232
+Tacna,Tacna,7989
+Tacna,Candarave,8111
+Tacna,Jorge Basadre,3232
+Tacna,Tarata,3232
+Tacna,Tarata,2123
+Tumbes,Tumbes,8111
+Tumbes,Contralmirante Villar,3232
+Tumbes,Zarumilla,3232
+Ucayali,Coronel Portillo,5121
+Ucayali,Atalaya,6232
+Ucayali,Padre Abad,7232
+Ucayali,Purus,3897
+
