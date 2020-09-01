@@ -1,347 +1,347 @@
-Departamento;Provincia;Distrito;Municipalidades;DNI;Funcionario;Sueldo;Fecha de entrega;Pobre
-Amazonas;Chachapoyas;null;null;null;null;0;null;null
-Amazonas;Bagua;null;null;null;null;0;null;null
-Amazonas;Bongará;null;null;null;null;0;null;null
-Amazonas;Condorcanqui;null;null;null;null;0;null;null
-Amazonas;Luya;null;null;null;null;0;null;null
-Amazonas;Rodríguez de Mendoza;null;null;null;null;0;null;null
-Amazonas;Utcubamba;null;null;null;null;0;null;null
-Áncash;Huaraz;null;null;null;null;0;null;null
-Áncash;Aija;null;null;null;null;0;null;null
-Áncash;Antonio Raymondi;null;null;null;null;0;null;null
-Áncash;Asunción;null;null;null;null;0;null;null
-Áncash;Bolognesi;null;null;null;null;0;null;null
-Áncash;Carhuaz;null;null;null;null;0;null;null
-Áncash;Carlos Fermín Fitzcarrald;null;null;null;null;0;null;null
-Áncash;Casma;null;null;null;null;0;null;null
-Áncash;Corongo;null;null;null;null;0;null;null
-Áncash;Huari;null;null;null;null;0;null;null
-Áncash;Huarmey;null;null;null;null;0;null;null
-Áncash;Huaylas;null;null;null;null;0;null;null
-Áncash;Mariscal Luzuriaga;null;null;null;null;0;null;null
-Áncash;Ocros;null;null;null;null;0;null;null
-Áncash;Pallasca;null;null;null;null;0;null;null
-Áncash;Pomabamba;null;null;null;null;0;null;null
-Áncash;Recuay;null;null;null;null;0;null;null
-Áncash;Santa;null;null;null;null;0;null;null
-Áncash;Sihuas;null;null;null;null;0;null;null
-Áncash;Yungay;null;null;null;null;0;null;null
-Apurímac;Abancay;null;null;null;null;0;null;null
-Apurímac;Andahuaylas;null;null;null;null;0;null;null
-Apurímac;Antabamba;null;null;null;null;0;null;null
-Apurímac;Aymaraes;null;null;null;null;0;null;null
-Apurímac;Cotabambas;null;null;null;null;0;null;null
-Apurímac;Chincheros;null;null;null;null;0;null;null
-Apurímac;Grau;null;null;null;null;0;null;null
-Arequipa;Arequipa;null;null;null;null;0;null;null
-Arequipa;Camaná;null;null;null;null;0;null;null
-Arequipa;Caravelí;null;null;null;null;0;null;null
-Arequipa;Castilla;null;null;null;null;0;null;null
-Arequipa;Caylloma;null;null;null;null;0;null;null
-Arequipa;Condesuyos;null;null;null;null;0;null;null
-Arequipa;Islay;null;null;null;null;0;null;null
-Arequipa;La Uniòn;null;null;null;null;0;null;null
-Ayacucho;Huamanga;null;null;null;null;0;null;null
-Ayacucho;Cangallo;null;null;null;null;0;null;null
-Ayacucho;Huanca Sancos;null;null;null;null;0;null;null
-Ayacucho;Huanta;null;null;null;null;0;null;null
-Ayacucho;La Mar;null;null;null;null;0;null;null
-Ayacucho;Lucanas;null;null;null;null;0;null;null
-Ayacucho;Parinacochas;null;null;null;null;0;null;null
-Ayacucho;Sucre;null;null;null;null;0;null;null
-Ayacucho;Víctor Fajardo;null;null;null;null;0;null;null
-Ayacucho;Vilcas Huamán;null;null;null;null;0;null;null
-Cajamarca;Cajamarca;null;null;null;null;0;null;null
-Cajamarca;Cajabamba;null;null;null;null;0;null;null
-Cajamarca;Celendín;null;null;null;null;0;null;null
-Cajamarca;Chota;null;null;null;null;0;null;null
-Cajamarca;Contumazá;null;null;null;null;0;null;null
-Cajamarca;Cutervo;null;null;null;null;0;null;null
-Cajamarca;Hualgayoc;null;null;null;null;0;null;null
-Cajamarca;Jaén;null;null;null;null;0;null;null
-Cajamarca;San Ignacio;null;null;null;null;0;null;null
-Cajamarca;San Marcos;null;null;null;null;0;null;null
-Cajamarca;San Pablo;null;null;null;null;0;null;null
-Cajamarca;Santa Cruz;null;null;null;null;0;null;null
-Callao;Prov. Const. del Callao;null;null;null;null;0;null;null
-Cusco;Cusco;null;null;null;null;0;null;null
-Cusco;Acomayo;null;null;null;null;0;null;null
-Cusco;Anta;null;null;null;null;0;null;null
-Cusco;Calca;null;null;null;null;0;null;null
-Cusco;Canas;null;null;null;null;0;null;null
-Cusco;Canchis;null;null;null;null;0;null;null
-Cusco;Chumbivilcas;null;null;null;null;0;null;null
-Cusco;Espinar;null;null;null;null;0;null;null
-Cusco;La Convención;null;null;null;null;0;null;null
-Cusco;Paruro;null;null;null;null;0;null;null
-Cusco;Paucartambo;null;null;null;null;0;null;null
-Cusco;Quispicanchi;null;null;null;null;0;null;null
-Cusco;Urubamba;null;null;null;null;0;null;null
-Huancavelica;Huancavelica;null;null;null;null;0;null;null
-Huancavelica;Acobamba;null;null;null;null;0;null;null
-Huancavelica;Angaraes;null;null;null;null;0;null;null
-Huancavelica;Castrovirreyna;null;null;null;null;0;null;null
-Huancavelica;Churcampa;null;null;null;null;0;null;null
-Huancavelica;Huaytará;null;null;null;null;0;null;null
-Huancavelica;Tayacaja;null;null;null;null;0;null;null
-Huánuco;Huánuco;null;null;null;null;0;null;null
-Huánuco;Ambo;null;null;null;null;0;null;null
-Huánuco;Dos de Mayo;null;null;null;null;0;null;null
-Huánuco;Huacaybamba;null;null;null;null;0;null;null
-Huánuco;Huamalíes;null;null;null;null;0;null;null
-Huánuco;Leoncio Prado;null;null;null;null;0;null;null
-Huánuco;Marañón;null;null;null;null;0;null;null
-Huánuco;Pachitea;null;null;null;null;0;null;null
-Huánuco;Puerto Inca;null;null;null;null;0;null;null
-Huánuco;Lauricocha;null;null;null;null;0;null;null
-Huánuco;Yarowilca;null;null;null;null;0;null;null
-Ica;Ica;null;null;null;null;0;null;null
-Ica;Chincha;null;null;null;null;0;null;null
-Ica;Nasca;null;null;null;null;0;null;null
-Ica;Palpa;null;null;null;null;0;null;null
-Ica;Pisco;null;null;null;null;0;null;null
-Junín;Huancayo;null;null;null;null;0;null;null
-Junín;Concepción;null;null;null;null;0;null;null
-Junín;Chanchamayo;null;null;null;null;0;null;null
-Junín;Jauja;null;null;null;null;0;null;null
-Junín;Junín;null;null;null;null;0;null;null
-Junín;Satipo;null;null;null;null;0;null;null
-Junín;Tarma;null;null;null;null;0;null;null
-Junín;Yauli;null;null;null;null;0;null;null
-Junín;Chupaca;null;null;null;null;0;null;null
-La Libertad;Trujillo;null;null;null;null;0;null;null
-La Libertad;Ascope;null;null;null;null;0;null;null
-La Libertad;Bolívar;null;null;null;null;0;null;null
-La Libertad;Chepén;null;null;null;null;0;null;null
-La Libertad;Julcán;null;null;null;null;0;null;null
-La Libertad;Otuzco;null;null;null;null;0;null;null
-La Libertad;Pacasmayo;null;null;null;null;0;null;null
-La Libertad;Pataz;null;null;null;null;0;null;null
-La Libertad;Sánchez Carrión;null;null;null;null;0;null;null
-La Libertad;Santiago de Chuco;null;null;null;null;0;null;null
-La Libertad;Gran Chimú;null;null;null;null;0;null;null
-La Libertad;Virú;null;null;null;null;0;null;null
-Lambayeque;Chiclayo;Chiclayo;MUNICIPALIDAD DE CHICLAYO;92861940;NO;0;04/20/20;SI
-Lambayeque;Chiclayo;Chiclayo;MUNICIPALIDAD DE CHICLAYO;92611916;NO;0;04/20/20;SI
-Lambayeque;Chiclayo;Chiclayo;MUNICIPALIDAD DE CHICLAYO;24176288;NO;0;04/20/20;NO
-Lambayeque;Chiclayo;Chongoyape;MUNICIPALIDAD DE CHONGOYAPE;67305489;NO;0;04/20/20;SI
-Lambayeque;Chiclayo;Chongoyape;MUNICIPALIDAD DE CHONGOYAPE;85643216;NO;0;04/21/20;SI
-Lambayeque;Chiclayo;Chongoyape;MUNICIPALIDAD DE CHONGOYAPE;50576788;NO;0;04/21/20;NO
-Lambayeque;Chiclayo;Chongoyape;MUNICIPALIDAD DE CHONGOYAPE;53998788;NO;0;04/21/20;SI
-Lambayeque;Chiclayo;Chongoyape;MUNICIPALIDAD DE CHONGOYAPE;76389002;SI;3000;04/21/20;NO
-Lambayeque;Chiclayo;Eten;MUNICIPALIDAD DE ETEN;66224260;NO;0;04/22/20;SI
-Lambayeque;Chiclayo;Eten;MUNICIPALIDAD DE ETEN;80334555;NO;0;04/22/20;SI
-Lambayeque;Chiclayo;Eten Puerto;MUNICIPALIDAD DE ETEN PUERTO;78319384;NO;0;04/22/20;SI
-Lambayeque;Chiclayo;Eten Puerto;MUNICIPALIDAD DE ETEN PUERTO;28563702;NO;0;04/22/20;SI
-Lambayeque;Chiclayo;Eten Puerto;MUNICIPALIDAD DE ETEN PUERTO;52880101;NO;0;04/22/20;NO
-Lambayeque;Chiclayo;Eten Puerto;MUNICIPALIDAD DE ETEN PUERTO;73778441;NO;0;04/22/20;SI
-Lambayeque;Chiclayo;Eten Puerto;MUNICIPALIDAD DE ETEN PUERTO;36704678;NO;0;04/23/20;SI
-Lambayeque;Chiclayo;José Leonardo Ortiz;MUNICIPALIDAD DE JOSÉ LEONARDO ORTIZ;55469008;NO;0;04/23/20;SI
-Lambayeque;Chiclayo;José Leonardo Ortiz;MUNICIPALIDAD DE JOSÉ LEONARDO ORTIZ;70775124;NO;0;04/23/20;SI
-Lambayeque;Chiclayo;La Victoria;MUNICIPALIDAD DE LA VICTORIA;83778455;NO;0;04/23/20;SI
-Lambayeque;Chiclayo;Lagunas;MUNICIPALIDAD DE LAGUNAS;80053930;NO;0;04/24/20;SI
-Lambayeque;Chiclayo;Monsefu;MUNICIPALIDAD DE MONSEFU;79537026;NO;0;04/24/20;NO
-Lambayeque;Chiclayo;Nueva Arica;MUNICIPALIDAD DE NUEVA ARICA;21718629;NO;0;04/24/20;SI
-Lambayeque;Chiclayo;Oyotun;MUNICIPALIDAD DE OYOTUN;54621838;NO;0;04/24/20;SI
-Lambayeque;Chiclayo;Picsi;MUNICIPALIDAD DE PICSI;51254272;NO;0;04/25/20;SI
-Lambayeque;Chiclayo;Pimentel;MUNICIPALIDAD DE PIMENTEL;22034817;NO;0;04/25/20;SI
-Lambayeque;Chiclayo;Reque;MUNICIPALIDAD DE REQUE;93667789;NO;0;04/25/20;SI
-Lambayeque;Chiclayo;Santa Rosa;MUNICIPALIDAD DE SANTA ROSA;49275272;NO;0;04/26/20;SI
-Lambayeque;Chiclayo;Saña;MUNICIPALIDAD DE SAÑA;85816636;NO;0;04/26/20;SI
-Lambayeque;Chiclayo;Cayalti;MUNICIPALIDAD DE CAYALTI;89691267;NO;0;04/26/20;SI
-Lambayeque;Chiclayo;Patapo;MUNICIPALIDAD DE PATAPO;88200982;NO;0;04/26/20;SI
-Lambayeque;Chiclayo;Pomalca;MUNICIPALIDAD DE POMALCA;17661025;SI;4000;04/26/20;NO
-Lambayeque;Chiclayo;Pucala;MUNICIPALIDAD DE PUCALA;34704615;NO;0;04/26/20;SI
-Lambayeque;Chiclayo;Tuman;MUNICIPALIDAD DE TUMAN;55472815;NO;0;04/26/20;SI
-Lambayeque;Ferreñafe;Ferreñafe;MUNICIPALIDAD DE FERREÑAFE;64741062;NO;0;04/27/20;NO
-Lambayeque;Ferreñafe;Ferreñafe;MUNICIPALIDAD DE FERREÑAFE;53586528;NO;0;04/27/20;SI
-Lambayeque;Ferreñafe;Ferreñafe;MUNICIPALIDAD DE FERREÑAFE;18531354;NO;0;04/27/20;SI
-Lambayeque;Ferreñafe;Ferreñafe;MUNICIPALIDAD DE FERREÑAFE;75175865;NO;0;04/27/20;NO
-Lambayeque;Ferreñafe;Ferreñafe;MUNICIPALIDAD DE FERREÑAFE;16177355;NO;0;04/27/20;SI
-Lambayeque;Ferreñafe;Ferreñafe;MUNICIPALIDAD DE FERREÑAFE;79226607;NO;0;04/27/20;SI
-Lambayeque;Ferreñafe;Ferreñafe;MUNICIPALIDAD DE FERREÑAFE;99574974;NO;0;04/28/20;SI
-Lambayeque;Ferreñafe;Cañaris;MUNICIPALIDAD DE CAÑARIS;30419640;NO;0;04/28/20;SI
-Lambayeque;Ferreñafe;Cañaris;MUNICIPALIDAD DE CAÑARIS;91716752;NO;0;04/28/20;NO
-Lambayeque;Ferreñafe;Cañaris;MUNICIPALIDAD DE CAÑARIS;75129861;NO;0;04/28/20;SI
-Lambayeque;Ferreñafe;Incahuasi;MUNICIPALIDAD DE INCAHUASI;95650935;NO;0;04/29/20;SI
-Lambayeque;Ferreñafe;Incahuasi;MUNICIPALIDAD DE INCAHUASI;90351832;NO;0;04/29/20;SI
-Lambayeque;Ferreñafe;Incahuasi;MUNICIPALIDAD DE INCAHUASI;49288385;SI;2500;04/29/20;NO
-Lambayeque;Ferreñafe;Incahuasi;MUNICIPALIDAD DE INCAHUASI;60605452;NO;0;04/30/20;SI
-Lambayeque;Ferreñafe;Manuel Antonio Mesones Muro;MUNICIPALIDAD DE MANUEL ANTONIO MESONES MURO;67780097;NO;0;04/30/20;SI
-Lambayeque;Ferreñafe;Pitipo;MUNICIPALIDAD DE PITIPO;88920336;NO;0;04/30/20;SI
-Lambayeque;Ferreñafe;Pitipo;MUNICIPALIDAD DE PITIPO;21633108;NO;0;04/30/20;SI
-Lambayeque;Ferreñafe;Pueblo Nuevo;MUNICIPALIDAD DE PUEBLO NUEVO;44043834;NO;0;04/30/20;SI
-Lambayeque;Lambayeque;Lambayeque;MUNICIPALIDAD DE LAMBAYEQUE;61804178;NO;0;5/01/2020;SI
-Lambayeque;Lambayeque;Chochope;MUNICIPALIDAD DE CHOCHOPE;31917974;NO;0;5/01/2020;SI
-Lambayeque;Lambayeque;Chochope;MUNICIPALIDAD DE CHOCHOPE;97328064;NO;0;5/01/2020;NO
-Lambayeque;Lambayeque;Chochope;MUNICIPALIDAD DE CHOCHOPE;55234706;NO;0;5/02/2020;NO
-Lambayeque;Lambayeque;Chochope;MUNICIPALIDAD DE CHOCHOPE;32625628;NO;0;5/02/2020;SI
-Lambayeque;Lambayeque;Chochope;MUNICIPALIDAD DE CHOCHOPE;38173021;NO;0;5/02/2020;SI
-Lambayeque;Lambayeque;Chochope;MUNICIPALIDAD DE CHOCHOPE;30428249;SI;3500;5/02/2020;NO
-Lambayeque;Lambayeque;Chochope;MUNICIPALIDAD DE CHOCHOPE;42067770;NO;0;5/02/2020;SI
-Lambayeque;Lambayeque;Illimo;MUNICIPALIDAD DE ILLIMO;58586943;NO;0;5/03/2020;SI
-Lambayeque;Lambayeque;Illimo;MUNICIPALIDAD DE ILLIMO;42236936;NO;0;5/03/2020;SI
-Lambayeque;Lambayeque;Illimo;MUNICIPALIDAD DE ILLIMO;90151234;NO;0;5/03/2020;SI
-Lambayeque;Lambayeque;Jayanca;MUNICIPALIDAD DE JAYANCA;32136603;NO;0;5/03/2020;SI
-Lambayeque;Lambayeque;Jayanca;MUNICIPALIDAD DE JAYANCA;22654685;NO;0;5/03/2020;NO
-Lambayeque;Lambayeque;Jayanca;MUNICIPALIDAD DE JAYANCA;81711695;NO;0;5/03/2020;NO
-Lambayeque;Lambayeque;Jayanca;MUNICIPALIDAD DE JAYANCA;95087695;NO;0;5/03/2020;NO
-Lambayeque;Lambayeque;Jayanca;MUNICIPALIDAD DE JAYANCA;95713223;NO;0;5/04/2020;SI
-Lambayeque;Lambayeque;Jayanca;MUNICIPALIDAD DE JAYANCA;46536504;NO;0;5/04/2020;SI
-Lambayeque;Lambayeque;Jayanca;MUNICIPALIDAD DE JAYANCA;60962629;NO;0;5/04/2020;SI
-Lambayeque;Lambayeque;Mochumi;MUNICIPALIDAD DE MOCHUMI;84789676;NO;0;5/04/2020;SI
-Lambayeque;Lambayeque;Morrope;MUNICIPALIDAD DE MORROPE;90320735;NO;0;5/04/2020;SI
-Lambayeque;Lambayeque;Morrope;MUNICIPALIDAD DE MORROPE;13634737;NO;0;5/05/2020;NO
-Lambayeque;Lambayeque;Morrope;MUNICIPALIDAD DE MORROPE;94378697;NO;0;5/05/2020;SI
-Lambayeque;Lambayeque;Morrope;MUNICIPALIDAD DE MORROPE;95270057;NO;0;5/05/2020;SI
-Lambayeque;Lambayeque;Motupe;MUNICIPALIDAD DE MOTUPE;18703642;SI;5000;5/05/2020;NO
-Lambayeque;Lambayeque;Olmos;MUNICIPALIDAD DE OLMOS;26828172;NO;0;5/05/2020;SI
-Lambayeque;Lambayeque;Pacora;MUNICIPALIDAD DE PACORA;66570631;NO;0;5/05/2020;SI
-Lambayeque;Lambayeque;Pacora;MUNICIPALIDAD DE PACORA;83940895;NO;0;5/10/2020;SI
-Lambayeque;Lambayeque;Salas;MUNICIPALIDAD DE SALAS;31380256;NO;0;5/10/2020;SI
-Lambayeque;Lambayeque;Salas;MUNICIPALIDAD DE SALAS;27473771;NO;0;5/10/2020;NO
-Lambayeque;Lambayeque;San José;MUNICIPALIDAD DE SAN JOSÉ;73938416;NO;0;5/10/2020;SI
-Lambayeque;Lambayeque;Tucume;MUNICIPALIDAD DE TUCUME;63824920;NO;0;5/10/2020;SI
-Lima;Lima;null;null;null;null;0;null;null
-Lima;Barranca;null;null;null;null;0;null;null
-Lima;Cajatambo;null;null;null;null;0;null;null
-Lima;Canta;null;null;null;null;0;null;null
-Lima;Cañete;null;null;null;null;0;null;null
-Lima;Huaral;null;null;null;null;0;null;null
-Lima;Huarochirí;null;null;null;null;0;null;null
-Lima;Huaura;null;null;null;null;0;null;null
-Lima;Oyón;null;null;null;null;0;null;null
-Lima;Yauyos;null;null;null;null;0;null;null
-Loreto;Maynas;null;null;null;null;0;null;null
-Loreto;Alto Amazonas;null;null;null;null;0;null;null
-Loreto;Loreto;null;null;null;null;0;null;null
-Loreto;Mariscal Ramón Castilla;null;null;null;null;0;null;null
-Loreto;Requena;null;null;null;null;0;null;null
-Loreto;Ucayali;null;null;null;null;0;null;null
-Loreto;Datem del Marañón;null;null;null;null;0;null;null
-Loreto;Putumayo;null;null;null;null;0;null;null
-Madre de Dios;Tambopata;null;null;null;null;0;null;null
-Madre de Dios;Manu;null;null;null;null;0;null;null
-Madre de Dios;Tahuamanu;null;null;null;null;0;null;null
-Moquegua;Mariscal Nieto;Moquegua;MUNICIPALIDAD PROVINCIAL DE MARISCAL NIETO ?MOQUEGUA;5621392;NO;0;5/11/2020;SI
-Moquegua;Mariscal Nieto;Carumas;MUNICIPALIDAD DISTRITAL DE CARUMAS;7272343;NO;0;5/11/2020;SI
-Moquegua;Mariscal Nieto;Cuchumbaya;MUNICIPALIDAD DISTRITAL DE CUCHUMBAYA;1300392;NO;0;5/11/2020;SI
-Moquegua;Mariscal Nieto;Samegua;MUNICIPALIDAD DISTRITAL DE SAMEGUA;3332592;NO;0;5/12/2020;SI
-Moquegua;Mariscal Nieto;San Cristóbal;MUNICIPALIDAD DISTRITAL DE SAN CRISTOBAL;7324522;NO;0;5/12/2020;SI
-Moquegua;Mariscal Nieto;Torata;MUNICIPALIDAD DISTRITAL DE TORATA;3332432;NO;0;05/13/20;SI
-Moquegua;General Sánchez Cerro;Omate;MUNICIPALIDAD PROVINCIAL DE GENERAL SANCHEZ CERRO OMATE;5465221;SI;3500;05/13/20;NO
-Moquegua;General Sánchez Cerro;Chojata;MUNICIPALIDAD DISTRITAL DE CHOJATA;9855232;NO;0;05/13/20;SI
-Moquegua;General Sánchez Cerro;Coalaque;MUNICIPALIDAD DISTRITAL DE COALAQUE;2310011;NO;0;05/13/20;SI
-Moquegua;General Sánchez Cerro;Ichuña;MUNICIPALIDAD DISTRITAL DE ICHUÑA;2125666;NO;0;05/13/20;SI
-Moquegua;General Sánchez Cerro;La Capilla;MUNICIPALIDAD DISTRITAL DE LA CAPILLA;3427767;NO;0;05/13/20;SI
-Moquegua;General Sánchez Cerro;Lloque;MUNICIPALIDAD DISTRITAL DE LLOQUE;3375671;NO;0;05/13/20;SI
-Moquegua;General Sánchez Cerro;Matalaque;MUNICIPALIDAD DISTRITAL DE MATALAQUE;4543100;NO;0;05/14/20;SI
-Moquegua;General Sánchez Cerro;Puquina;MUNICIPALIDAD DISTRITAL DE PUQUINA;2037392;SI;5000;05/14/20;NO
-Moquegua;General Sánchez Cerro;Quinistaquillas;MUNICIPALIDAD DISTRITAL DE QUINISTAQUILLAS;4044232;NO;0;05/14/20;SI
-Moquegua;General Sánchez Cerro;Ubinas;MUNICIPALIDAD DISTRITAL DE UBINAS;9852321;NO;0;05/15/20;SI
-Moquegua;General Sánchez Cerro;Yunga;MUNICIPALIDAD DISTRITAL DE YUNGA;3310221;NO;0;05/15/20;SI
-Moquegua;Ilo;Ilo;MUNICIPALIDAD PROVINCIAL DE ILO;3025621;NO;0;05/16/20;SI
-Moquegua;Ilo;El Algarrobal;MUNICIPALIDAD DISTRITAL DE EL ALGARROBAL;3427302;NO;0;05/16/20;SI
-Moquegua;Ilo;Pacocha;MUNICIPALIDAD DISTRITAL DE PACOCHA;4027727;NO;0;05/16/20;SI
-Pasco;Pasco;null;null;null;null;0;null;null
-Pasco;Daniel Alcides Carrión;null;null;null;null;0;null;null
-Pasco;Oxapampa;null;null;null;null;0;null;null
-Piura;Piura;null;null;null;null;0;null;null
-Piura;Ayabaca;null;null;null;null;0;null;null
-Piura;Huancabamba;null;null;null;null;0;null;null
-Piura;Morropón;null;null;null;null;0;null;null
-Piura;Paita;null;null;null;null;0;null;null
-Piura;Sullana;null;null;null;null;0;null;null
-Piura;Talara;null;null;null;null;0;null;null
-Piura;Sechura;null;null;null;null;0;null;null
-Puno;Puno;null;null;null;null;0;null;null
-Puno;Azángaro;null;null;null;null;0;null;null
-Puno;Carabaya;null;null;null;null;0;null;null
-Puno;Chucuito;null;null;null;null;0;null;null
-Puno;El Collao;null;null;null;null;0;null;null
-Puno;Huancané;null;null;null;null;0;null;null
-Puno;Lampa;null;null;null;null;0;null;null
-Puno;Melgar;null;null;null;null;0;null;null
-Puno;Moho;null;null;null;null;0;null;null
-Puno;San Antonio de Putina;null;null;null;null;0;null;null
-Puno;San Román;null;null;null;null;0;null;null
-Puno;Sandia;null;null;null;null;0;null;null
-Puno;Yunguyo;null;null;null;null;0;null;null
-San Martín;Moyobamba;null;null;null;null;0;null;null
-San Martín;Bellavista;null;null;null;null;0;null;null
-San Martín;El Dorado;null;null;null;null;0;null;null
-San Martín;Huallaga;null;null;null;null;0;null;null
-San Martín;Lamas;null;null;null;null;0;null;null
-San Martín;Mariscal Cáceres;null;null;null;null;0;null;null
-San Martín;Picota;null;null;null;null;0;null;null
-San Martín;Rioja;null;null;null;null;0;null;null
-San Martín;San Martín;null;null;null;null;0;null;null
-San Martín;Tocache;null;null;null;null;0;null;null
-Tacna;Tacna;Tacna;MUNICIPALIDAD PROVINCIAL DE TACNA;4627392;NO;0;05/16/20;SI
-Tacna;Tacna;Alto de la Alianza;MUNICIPALIDAD DISTRITAL DE ALTO DE LA ALIANZA;7272342;NO;0;05/16/20;SI
-Tacna;Tacna;Calana;MUNICIPALIDAD DISTRITAL DE CALANA;1600392;NO;0;05/16/20;SI
-Tacna;Tacna;Ciudad Nueva;MUNICIPALIDAD DISTRITAL DE CIUDAD NUEVA;2162592;SI;5000;05/18/20;NO
-Tacna;Tacna;Inclan;MUNICIPALIDAD DISTRITAL DE INCLAN;4534555;SI;3500;05/18/20;NO
-Tacna;Tacna;Pachia;MUNICIPALIDAD DISTRITAL DE PACHIA;5532434;NO;0;05/18/20;SI
-Tacna;Tacna;Palca;MUNICIPALIDAD DISTRITAL DE PALCA;5465665;NO;0;05/18/20;SI
-Tacna;Tacna;Pocollay;MUNICIPALIDAD DISTRITAL DE POCOLLAY;7655434;NO;0;05/18/20;SI
-Tacna;Tacna;Sama;MUNICIPALIDAD DISTRITAL DE SAMA;6560044;NO;0;05/19/20;SI
-Tacna;Tacna;Coronel Gregorio Albarracín Lanchipa;MUNICIPALIDAD DISTRITAL DE CORONEL GREGORIO ALBARRACIN LANCHIPA;4235666;NO;0;05/19/20;SI
-Tacna;Tacna;La Yarada los Palos;MUNICIPALIDAD DISTRITAL DE LAYARADA LOS PALOS;5657767;NO;0;05/19/20;SI
-Tacna;Candarave;Candarave;MUNICIPALIDAD PROVINCIAL DE CANDARAVE;6575676;NO;0;05/19/20;SI
-Tacna;Candarave;Cairani;MUNICIPALIDAD DISTRITAL DE CAIRANI;4543125;NO;0;05/20/20;SI
-Tacna;Candarave;Camilaca;MUNICIPALIDAD DISTRITAL DE CAMILACA;4627392;NO;0;05/20/20;SI
-Tacna;Candarave;Curibaya;MUNICIPALIDAD DISTRITAL DE CURIBAYA;4344242;SI;3000;05/20/20;NO
-Tacna;Candarave;Huanuara;MUNICIPALIDAD DISTRITAL DE HUANUARA;4022122;NO;0;05/21/20;SI
-Tacna;Candarave;Quilahuani;MUNICIPALIDAD DISTRITAL DE QUILAHUANI;9852310;NO;0;05/21/20;SI
-Tacna;Jorge Basadre;Locumba;MUNICIPALIDAD PROVINCIAL DE JORGE BASADRE ?LOCUMBA;4210221;NO;0;05/21/20;SI
-Tacna;Jorge Basadre;Ilabaya;MUNICIPALIDAD DISTRITAL DE ILABAYA;3025300;NO;0;05/21/20;SI
-Tacna;Jorge Basadre;Ite;MUNICIPALIDAD DISTRITAL DE ITE;3027302;NO;0;05/21/20;SI
-Tacna;Tarata;Tarata;MUNICIPALIDAD PROVINCIAL DE TARATA;5224727;NO;0;05/21/20;SI
-Tacna;Tarata;Héroes Albarracín;MUNICIPALIDAD DISTRITAL DE HEROES ALBARRACIN;4324325;SI;2500;05/22/20;NO
-Tacna;Tarata;Estique;MUNICIPALIDAD DISTRITAL DE ESTIQUE;9566705;NO;0;05/22/20;SI
-Tacna;Tarata;Estique-Pampa;MUNICIPALIDAD DISTRITAL DE ESTIQUE?PAMPA;4332432;NO;0;05/22/20;SI
-Tacna;Tarata;Sitajara;MUNICIPALIDAD DISTRITAL DE SITAJARA;6574631;NO;0;05/22/20;SI
-Tacna;Tarata;Susapaya;MUNICIPALIDAD DISTRITAL DE SUSAPAYA;6576590;NO;0;05/22/20;SI
-Tacna;Tarata;Tarucachi;MUNICIPALIDAD DISTRITAL DE TARUCACHI;7879554;NO;0;05/23/20;SI
-Tacna;Tarata;Ticaco;MUNICIPALIDAD DISTRITAL DE TICACO;5543332;NO;0;05/23/20;SI
-Tumbes;Tumbes;Tumbes;MUNICIPALIDAD DISTRITAL DE TUMBES;25432528;NO;0;05/23/20;SI
-Tumbes;Tumbes;Tumbes;MUNICIPALIDAD DISTRITAL DE TUMBES;40355238;NO;0;05/23/20;NO
-Tumbes;Tumbes;Tumbes;MUNICIPALIDAD DISTRITAL DE TUMBES;50226237;NO;0;05/24/20;SI
-Tumbes;Tumbes;Corrales;MUNICIPALIDAD DE CORRALES;57594474;NO;0;05/24/20;SI
-Tumbes;Tumbes;Corrales;MUNICIPALIDAD DE CORRALES;42404574;SI;2500;05/24/20;NO
-Tumbes;Tumbes;Corrales;MUNICIPALIDAD DE CORRALES;53432235;NO;0;05/24/20;SI
-Tumbes;Tumbes;Corrales;MUNICIPALIDAD DE CORRALES;70458493;NO;0;05/27/20;NO
-Tumbes;Tumbes;Corrales;MUNICIPALIDAD DE CORRALES;91809743;NO;0;05/27/20;SI
-Tumbes;Tumbes;La Cruz;MUNICIPALIDAD DE LA CRUZ;51026952;NO;0;05/27/20;SI
-Tumbes;Tumbes;La Cruz;MUNICIPALIDAD DE LA CRUZ;96291415;NO;0;05/28/20;SI
-Tumbes;Tumbes;La Cruz;MUNICIPALIDAD DE LA CRUZ;91819390;NO;0;05/28/20;SI
-Tumbes;Tumbes;Pampas de Hospital;MUNICIPALIDAD DE PAMPAS DE HOSPITAL;40707357;SI;3000;05/28/20;NO
-Tumbes;Tumbes;Pampas de Hospital;MUNICIPALIDAD DE PAMPAS DE HOSPITAL;79710530;NO;0;05/28/20;SI
-Tumbes;Tumbes;Pampas de Hospital;MUNICIPALIDAD DE PAMPAS DE HOSPITAL;55028527;NO;0;05/28/20;NO
-Tumbes;Tumbes;Pampas de Hospital;MUNICIPALIDAD DE PAMPAS DE HOSPITAL;82336306;NO;0;05/28/20;SI
-Tumbes;Tumbes;San Jacinto;MUNICIPALIDAD DE SAN JACINTO;37580972;NO;0;05/28/20;SI
-Tumbes;Tumbes;San Jacinto;MUNICIPALIDAD DE SAN JACINTO;96741806;NO;0;05/29/20;NO
-Tumbes;Tumbes;San Jacinto;MUNICIPALIDAD DE SAN JACINTO;61884825;NO;0;05/29/20;SI
-Tumbes;Tumbes;San Juan de la Virgen;MUNICIPALIDAD DE SAN JUAN DE LA VIRGEN;51462435;NO;0;05/29/20;SI
-Tumbes;Contralmirante Villar;Zorritos;MUNICIPALIDAD DE ZORRITOS;88988942;NO;0;05/29/20;SI
-Tumbes;Contralmirante Villar;Casitas;MUNICIPALIDAD DE CASITAS;37930069;NO;0;05/30/20;SI
-Tumbes;Contralmirante Villar;Casitas;MUNICIPALIDAD DE CASITAS;31751028;NO;0;05/30/20;SI
-Tumbes;Contralmirante Villar;Canoas de Punta Sal;MUNICIPALIDAD DE CANOAS DE PUNTA SAL;55015208;NO;0;05/30/20;NO
-Tumbes;Contralmirante Villar;Canoas de Punta Sal;MUNICIPALIDAD DE CANOAS DE PUNTA SAL;22579931;NO;0;05/30/20;SI
-Tumbes;Contralmirante Villar;Canoas de Punta Sal;MUNICIPALIDAD DE CANOAS DE PUNTA SAL;53729180;NO;0;05/31/20;SI
-Tumbes;Contralmirante Villar;Canoas de Punta Sal;MUNICIPALIDAD DE CANOAS DE PUNTA SAL;88612021;NO;0;05/31/20;SI
-Tumbes;Zarumilla;Zarumilla;MUNICIPALIDAD DE ZARUMILLA;32157909;NO;0;05/31/20;SI
-Tumbes;Zarumilla;Aguas Verdes;MUNICIPALIDAD DE AGUAS VERDES;29943635;NO;0;05/31/20;NO
-Tumbes;Zarumilla;Aguas Verdes;MUNICIPALIDAD DE AGUAS VERDES;68278159;SI;3500;05/31/20;NO
-Tumbes;Zarumilla;Aguas Verdes;MUNICIPALIDAD DE AGUAS VERDES;15599573;NO;0;6/01/2020;SI
-Tumbes;Zarumilla;Aguas Verdes;MUNICIPALIDAD DE AGUAS VERDES;87771917;NO;0;6/01/2020;SI
-Tumbes;Zarumilla;Matapalo;MUNICIPALIDAD DE MATAPALO;85502543;NO;0;6/01/2020;SI
-Tumbes;Zarumilla;Matapalo;MUNICIPALIDAD DE MATAPALO;87814510;NO;0;6/02/2020;NO
-Tumbes;Zarumilla;Matapalo;MUNICIPALIDAD DE MATAPALO;33345767;NO;0;6/02/2020;SI
-Tumbes;Zarumilla;Papayal;MUNICIPALIDAD DE PAPAYAL;96233062;NO;0;6/02/2020;SI
-Tumbes;Zarumilla;Papayal;MUNICIPALIDAD DE PAPAYAL;87392295;SI;5000;6/02/2020;NO
-Ucayali;Coronel Portillo;null;null;null;null;0;null;null
-Ucayali;Atalaya;null;null;null;null;0;null;null
-Ucayali;Padre Abad;null;null;null;null;0;null;null
-Ucayali;Purús;null;null;null;null;0;null;null
+Departamento,Provincia,Distrito,Municipalidades,DNI,Funcionario,Sueldo,Fecha de entrega,Pobre
+Amazonas,Chachapoyas,null,null,null,null,0,null,null
+Amazonas,Bagua,null,null,null,null,0,null,null
+Amazonas,Bongará,null,null,null,null,0,null,null
+Amazonas,Condorcanqui,null,null,null,null,0,null,null
+Amazonas,Luya,null,null,null,null,0,null,null
+Amazonas,Rodríguez de Mendoza,null,null,null,null,0,null,null
+Amazonas,Utcubamba,null,null,null,null,0,null,null
+Áncash,Huaraz,null,null,null,null,0,null,null
+Áncash,Aija,null,null,null,null,0,null,null
+Áncash,Antonio Raymondi,null,null,null,null,0,null,null
+Áncash,Asunción,null,null,null,null,0,null,null
+Áncash,Bolognesi,null,null,null,null,0,null,null
+Áncash,Carhuaz,null,null,null,null,0,null,null
+Áncash,Carlos Fermín Fitzcarrald,null,null,null,null,0,null,null
+Áncash,Casma,null,null,null,null,0,null,null
+Áncash,Corongo,null,null,null,null,0,null,null
+Áncash,Huari,null,null,null,null,0,null,null
+Áncash,Huarmey,null,null,null,null,0,null,null
+Áncash,Huaylas,null,null,null,null,0,null,null
+Áncash,Mariscal Luzuriaga,null,null,null,null,0,null,null
+Áncash,Ocros,null,null,null,null,0,null,null
+Áncash,Pallasca,null,null,null,null,0,null,null
+Áncash,Pomabamba,null,null,null,null,0,null,null
+Áncash,Recuay,null,null,null,null,0,null,null
+Áncash,Santa,null,null,null,null,0,null,null
+Áncash,Sihuas,null,null,null,null,0,null,null
+Áncash,Yungay,null,null,null,null,0,null,null
+Apurímac,Abancay,null,null,null,null,0,null,null
+Apurímac,Andahuaylas,null,null,null,null,0,null,null
+Apurímac,Antabamba,null,null,null,null,0,null,null
+Apurímac,Aymaraes,null,null,null,null,0,null,null
+Apurímac,Cotabambas,null,null,null,null,0,null,null
+Apurímac,Chincheros,null,null,null,null,0,null,null
+Apurímac,Grau,null,null,null,null,0,null,null
+Arequipa,Arequipa,null,null,null,null,0,null,null
+Arequipa,Camaná,null,null,null,null,0,null,null
+Arequipa,Caravelí,null,null,null,null,0,null,null
+Arequipa,Castilla,null,null,null,null,0,null,null
+Arequipa,Caylloma,null,null,null,null,0,null,null
+Arequipa,Condesuyos,null,null,null,null,0,null,null
+Arequipa,Islay,null,null,null,null,0,null,null
+Arequipa,La Uniòn,null,null,null,null,0,null,null
+Ayacucho,Huamanga,null,null,null,null,0,null,null
+Ayacucho,Cangallo,null,null,null,null,0,null,null
+Ayacucho,Huanca Sancos,null,null,null,null,0,null,null
+Ayacucho,Huanta,null,null,null,null,0,null,null
+Ayacucho,La Mar,null,null,null,null,0,null,null
+Ayacucho,Lucanas,null,null,null,null,0,null,null
+Ayacucho,Parinacochas,null,null,null,null,0,null,null
+Ayacucho,Sucre,null,null,null,null,0,null,null
+Ayacucho,Víctor Fajardo,null,null,null,null,0,null,null
+Ayacucho,Vilcas Huamán,null,null,null,null,0,null,null
+Cajamarca,Cajamarca,null,null,null,null,0,null,null
+Cajamarca,Cajabamba,null,null,null,null,0,null,null
+Cajamarca,Celendín,null,null,null,null,0,null,null
+Cajamarca,Chota,null,null,null,null,0,null,null
+Cajamarca,Contumazá,null,null,null,null,0,null,null
+Cajamarca,Cutervo,null,null,null,null,0,null,null
+Cajamarca,Hualgayoc,null,null,null,null,0,null,null
+Cajamarca,Jaén,null,null,null,null,0,null,null
+Cajamarca,San Ignacio,null,null,null,null,0,null,null
+Cajamarca,San Marcos,null,null,null,null,0,null,null
+Cajamarca,San Pablo,null,null,null,null,0,null,null
+Cajamarca,Santa Cruz,null,null,null,null,0,null,null
+Callao,Prov. Const. del Callao,null,null,null,null,0,null,null
+Cusco,Cusco,null,null,null,null,0,null,null
+Cusco,Acomayo,null,null,null,null,0,null,null
+Cusco,Anta,null,null,null,null,0,null,null
+Cusco,Calca,null,null,null,null,0,null,null
+Cusco,Canas,null,null,null,null,0,null,null
+Cusco,Canchis,null,null,null,null,0,null,null
+Cusco,Chumbivilcas,null,null,null,null,0,null,null
+Cusco,Espinar,null,null,null,null,0,null,null
+Cusco,La Convención,null,null,null,null,0,null,null
+Cusco,Paruro,null,null,null,null,0,null,null
+Cusco,Paucartambo,null,null,null,null,0,null,null
+Cusco,Quispicanchi,null,null,null,null,0,null,null
+Cusco,Urubamba,null,null,null,null,0,null,null
+Huancavelica,Huancavelica,null,null,null,null,0,null,null
+Huancavelica,Acobamba,null,null,null,null,0,null,null
+Huancavelica,Angaraes,null,null,null,null,0,null,null
+Huancavelica,Castrovirreyna,null,null,null,null,0,null,null
+Huancavelica,Churcampa,null,null,null,null,0,null,null
+Huancavelica,Huaytará,null,null,null,null,0,null,null
+Huancavelica,Tayacaja,null,null,null,null,0,null,null
+Huánuco,Huánuco,null,null,null,null,0,null,null
+Huánuco,Ambo,null,null,null,null,0,null,null
+Huánuco,Dos de Mayo,null,null,null,null,0,null,null
+Huánuco,Huacaybamba,null,null,null,null,0,null,null
+Huánuco,Huamalíes,null,null,null,null,0,null,null
+Huánuco,Leoncio Prado,null,null,null,null,0,null,null
+Huánuco,Marañón,null,null,null,null,0,null,null
+Huánuco,Pachitea,null,null,null,null,0,null,null
+Huánuco,Puerto Inca,null,null,null,null,0,null,null
+Huánuco,Lauricocha,null,null,null,null,0,null,null
+Huánuco,Yarowilca,null,null,null,null,0,null,null
+Ica,Ica,null,null,null,null,0,null,null
+Ica,Chincha,null,null,null,null,0,null,null
+Ica,Nasca,null,null,null,null,0,null,null
+Ica,Palpa,null,null,null,null,0,null,null
+Ica,Pisco,null,null,null,null,0,null,null
+Junín,Huancayo,null,null,null,null,0,null,null
+Junín,Concepción,null,null,null,null,0,null,null
+Junín,Chanchamayo,null,null,null,null,0,null,null
+Junín,Jauja,null,null,null,null,0,null,null
+Junín,Junín,null,null,null,null,0,null,null
+Junín,Satipo,null,null,null,null,0,null,null
+Junín,Tarma,null,null,null,null,0,null,null
+Junín,Yauli,null,null,null,null,0,null,null
+Junín,Chupaca,null,null,null,null,0,null,null
+La Libertad,Trujillo,null,null,null,null,0,null,null
+La Libertad,Ascope,null,null,null,null,0,null,null
+La Libertad,Bolívar,null,null,null,null,0,null,null
+La Libertad,Chepén,null,null,null,null,0,null,null
+La Libertad,Julcán,null,null,null,null,0,null,null
+La Libertad,Otuzco,null,null,null,null,0,null,null
+La Libertad,Pacasmayo,null,null,null,null,0,null,null
+La Libertad,Pataz,null,null,null,null,0,null,null
+La Libertad,Sánchez Carrión,null,null,null,null,0,null,null
+La Libertad,Santiago de Chuco,null,null,null,null,0,null,null
+La Libertad,Gran Chimú,null,null,null,null,0,null,null
+La Libertad,Virú,null,null,null,null,0,null,null
+Lambayeque,Chiclayo,Chiclayo,MUNICIPALIDAD DE CHICLAYO,92861940,NO,0,04/20/20,SI
+Lambayeque,Chiclayo,Chiclayo,MUNICIPALIDAD DE CHICLAYO,92611916,NO,0,04/20/20,SI
+Lambayeque,Chiclayo,Chiclayo,MUNICIPALIDAD DE CHICLAYO,24176288,NO,0,04/20/20,NO
+Lambayeque,Chiclayo,Chongoyape,MUNICIPALIDAD DE CHONGOYAPE,67305489,NO,0,04/20/20,SI
+Lambayeque,Chiclayo,Chongoyape,MUNICIPALIDAD DE CHONGOYAPE,85643216,NO,0,04/21/20,SI
+Lambayeque,Chiclayo,Chongoyape,MUNICIPALIDAD DE CHONGOYAPE,50576788,NO,0,04/21/20,NO
+Lambayeque,Chiclayo,Chongoyape,MUNICIPALIDAD DE CHONGOYAPE,53998788,NO,0,04/21/20,SI
+Lambayeque,Chiclayo,Chongoyape,MUNICIPALIDAD DE CHONGOYAPE,76389002,SI,3000,04/21/20,NO
+Lambayeque,Chiclayo,Eten,MUNICIPALIDAD DE ETEN,66224260,NO,0,04/22/20,SI
+Lambayeque,Chiclayo,Eten,MUNICIPALIDAD DE ETEN,80334555,NO,0,04/22/20,SI
+Lambayeque,Chiclayo,Eten Puerto,MUNICIPALIDAD DE ETEN PUERTO,78319384,NO,0,04/22/20,SI
+Lambayeque,Chiclayo,Eten Puerto,MUNICIPALIDAD DE ETEN PUERTO,28563702,NO,0,04/22/20,SI
+Lambayeque,Chiclayo,Eten Puerto,MUNICIPALIDAD DE ETEN PUERTO,52880101,NO,0,04/22/20,NO
+Lambayeque,Chiclayo,Eten Puerto,MUNICIPALIDAD DE ETEN PUERTO,73778441,NO,0,04/22/20,SI
+Lambayeque,Chiclayo,Eten Puerto,MUNICIPALIDAD DE ETEN PUERTO,36704678,NO,0,04/23/20,SI
+Lambayeque,Chiclayo,José Leonardo Ortiz,MUNICIPALIDAD DE JOSÉ LEONARDO ORTIZ,55469008,NO,0,04/23/20,SI
+Lambayeque,Chiclayo,José Leonardo Ortiz,MUNICIPALIDAD DE JOSÉ LEONARDO ORTIZ,70775124,NO,0,04/23/20,SI
+Lambayeque,Chiclayo,La Victoria,MUNICIPALIDAD DE LA VICTORIA,83778455,NO,0,04/23/20,SI
+Lambayeque,Chiclayo,Lagunas,MUNICIPALIDAD DE LAGUNAS,80053930,NO,0,04/24/20,SI
+Lambayeque,Chiclayo,Monsefu,MUNICIPALIDAD DE MONSEFU,79537026,NO,0,04/24/20,NO
+Lambayeque,Chiclayo,Nueva Arica,MUNICIPALIDAD DE NUEVA ARICA,21718629,NO,0,04/24/20,SI
+Lambayeque,Chiclayo,Oyotun,MUNICIPALIDAD DE OYOTUN,54621838,NO,0,04/24/20,SI
+Lambayeque,Chiclayo,Picsi,MUNICIPALIDAD DE PICSI,51254272,NO,0,04/25/20,SI
+Lambayeque,Chiclayo,Pimentel,MUNICIPALIDAD DE PIMENTEL,22034817,NO,0,04/25/20,SI
+Lambayeque,Chiclayo,Reque,MUNICIPALIDAD DE REQUE,93667789,NO,0,04/25/20,SI
+Lambayeque,Chiclayo,Santa Rosa,MUNICIPALIDAD DE SANTA ROSA,49275272,NO,0,04/26/20,SI
+Lambayeque,Chiclayo,Saña,MUNICIPALIDAD DE SAÑA,85816636,NO,0,04/26/20,SI
+Lambayeque,Chiclayo,Cayalti,MUNICIPALIDAD DE CAYALTI,89691267,NO,0,04/26/20,SI
+Lambayeque,Chiclayo,Patapo,MUNICIPALIDAD DE PATAPO,88200982,NO,0,04/26/20,SI
+Lambayeque,Chiclayo,Pomalca,MUNICIPALIDAD DE POMALCA,17661025,SI,4000,04/26/20,NO
+Lambayeque,Chiclayo,Pucala,MUNICIPALIDAD DE PUCALA,34704615,NO,0,04/26/20,SI
+Lambayeque,Chiclayo,Tuman,MUNICIPALIDAD DE TUMAN,55472815,NO,0,04/26/20,SI
+Lambayeque,Ferreñafe,Ferreñafe,MUNICIPALIDAD DE FERREÑAFE,64741062,NO,0,04/27/20,NO
+Lambayeque,Ferreñafe,Ferreñafe,MUNICIPALIDAD DE FERREÑAFE,53586528,NO,0,04/27/20,SI
+Lambayeque,Ferreñafe,Ferreñafe,MUNICIPALIDAD DE FERREÑAFE,18531354,NO,0,04/27/20,SI
+Lambayeque,Ferreñafe,Ferreñafe,MUNICIPALIDAD DE FERREÑAFE,75175865,NO,0,04/27/20,NO
+Lambayeque,Ferreñafe,Ferreñafe,MUNICIPALIDAD DE FERREÑAFE,16177355,NO,0,04/27/20,SI
+Lambayeque,Ferreñafe,Ferreñafe,MUNICIPALIDAD DE FERREÑAFE,79226607,NO,0,04/27/20,SI
+Lambayeque,Ferreñafe,Ferreñafe,MUNICIPALIDAD DE FERREÑAFE,99574974,NO,0,04/28/20,SI
+Lambayeque,Ferreñafe,Cañaris,MUNICIPALIDAD DE CAÑARIS,30419640,NO,0,04/28/20,SI
+Lambayeque,Ferreñafe,Cañaris,MUNICIPALIDAD DE CAÑARIS,91716752,NO,0,04/28/20,NO
+Lambayeque,Ferreñafe,Cañaris,MUNICIPALIDAD DE CAÑARIS,75129861,NO,0,04/28/20,SI
+Lambayeque,Ferreñafe,Incahuasi,MUNICIPALIDAD DE INCAHUASI,95650935,NO,0,04/29/20,SI
+Lambayeque,Ferreñafe,Incahuasi,MUNICIPALIDAD DE INCAHUASI,90351832,NO,0,04/29/20,SI
+Lambayeque,Ferreñafe,Incahuasi,MUNICIPALIDAD DE INCAHUASI,49288385,SI,2500,04/29/20,NO
+Lambayeque,Ferreñafe,Incahuasi,MUNICIPALIDAD DE INCAHUASI,60605452,NO,0,04/30/20,SI
+Lambayeque,Ferreñafe,Manuel Antonio Mesones Muro,MUNICIPALIDAD DE MANUEL ANTONIO MESONES MURO,67780097,NO,0,04/30/20,SI
+Lambayeque,Ferreñafe,Pitipo,MUNICIPALIDAD DE PITIPO,88920336,NO,0,04/30/20,SI
+Lambayeque,Ferreñafe,Pitipo,MUNICIPALIDAD DE PITIPO,21633108,NO,0,04/30/20,SI
+Lambayeque,Ferreñafe,Pueblo Nuevo,MUNICIPALIDAD DE PUEBLO NUEVO,44043834,NO,0,04/30/20,SI
+Lambayeque,Lambayeque,Lambayeque,MUNICIPALIDAD DE LAMBAYEQUE,61804178,NO,0,5/01/2020,SI
+Lambayeque,Lambayeque,Chochope,MUNICIPALIDAD DE CHOCHOPE,31917974,NO,0,5/01/2020,SI
+Lambayeque,Lambayeque,Chochope,MUNICIPALIDAD DE CHOCHOPE,97328064,NO,0,5/01/2020,NO
+Lambayeque,Lambayeque,Chochope,MUNICIPALIDAD DE CHOCHOPE,55234706,NO,0,5/02/2020,NO
+Lambayeque,Lambayeque,Chochope,MUNICIPALIDAD DE CHOCHOPE,32625628,NO,0,5/02/2020,SI
+Lambayeque,Lambayeque,Chochope,MUNICIPALIDAD DE CHOCHOPE,38173021,NO,0,5/02/2020,SI
+Lambayeque,Lambayeque,Chochope,MUNICIPALIDAD DE CHOCHOPE,30428249,SI,3500,5/02/2020,NO
+Lambayeque,Lambayeque,Chochope,MUNICIPALIDAD DE CHOCHOPE,42067770,NO,0,5/02/2020,SI
+Lambayeque,Lambayeque,Illimo,MUNICIPALIDAD DE ILLIMO,58586943,NO,0,5/03/2020,SI
+Lambayeque,Lambayeque,Illimo,MUNICIPALIDAD DE ILLIMO,42236936,NO,0,5/03/2020,SI
+Lambayeque,Lambayeque,Illimo,MUNICIPALIDAD DE ILLIMO,90151234,NO,0,5/03/2020,SI
+Lambayeque,Lambayeque,Jayanca,MUNICIPALIDAD DE JAYANCA,32136603,NO,0,5/03/2020,SI
+Lambayeque,Lambayeque,Jayanca,MUNICIPALIDAD DE JAYANCA,22654685,NO,0,5/03/2020,NO
+Lambayeque,Lambayeque,Jayanca,MUNICIPALIDAD DE JAYANCA,81711695,NO,0,5/03/2020,NO
+Lambayeque,Lambayeque,Jayanca,MUNICIPALIDAD DE JAYANCA,95087695,NO,0,5/03/2020,NO
+Lambayeque,Lambayeque,Jayanca,MUNICIPALIDAD DE JAYANCA,95713223,NO,0,5/04/2020,SI
+Lambayeque,Lambayeque,Jayanca,MUNICIPALIDAD DE JAYANCA,46536504,NO,0,5/04/2020,SI
+Lambayeque,Lambayeque,Jayanca,MUNICIPALIDAD DE JAYANCA,60962629,NO,0,5/04/2020,SI
+Lambayeque,Lambayeque,Mochumi,MUNICIPALIDAD DE MOCHUMI,84789676,NO,0,5/04/2020,SI
+Lambayeque,Lambayeque,Morrope,MUNICIPALIDAD DE MORROPE,90320735,NO,0,5/04/2020,SI
+Lambayeque,Lambayeque,Morrope,MUNICIPALIDAD DE MORROPE,13634737,NO,0,5/05/2020,NO
+Lambayeque,Lambayeque,Morrope,MUNICIPALIDAD DE MORROPE,94378697,NO,0,5/05/2020,SI
+Lambayeque,Lambayeque,Morrope,MUNICIPALIDAD DE MORROPE,95270057,NO,0,5/05/2020,SI
+Lambayeque,Lambayeque,Motupe,MUNICIPALIDAD DE MOTUPE,18703642,SI,5000,5/05/2020,NO
+Lambayeque,Lambayeque,Olmos,MUNICIPALIDAD DE OLMOS,26828172,NO,0,5/05/2020,SI
+Lambayeque,Lambayeque,Pacora,MUNICIPALIDAD DE PACORA,66570631,NO,0,5/05/2020,SI
+Lambayeque,Lambayeque,Pacora,MUNICIPALIDAD DE PACORA,83940895,NO,0,5/10/2020,SI
+Lambayeque,Lambayeque,Salas,MUNICIPALIDAD DE SALAS,31380256,NO,0,5/10/2020,SI
+Lambayeque,Lambayeque,Salas,MUNICIPALIDAD DE SALAS,27473771,NO,0,5/10/2020,NO
+Lambayeque,Lambayeque,San José,MUNICIPALIDAD DE SAN JOSÉ,73938416,NO,0,5/10/2020,SI
+Lambayeque,Lambayeque,Tucume,MUNICIPALIDAD DE TUCUME,63824920,NO,0,5/10/2020,SI
+Lima,Lima,null,null,null,null,0,null,null
+Lima,Barranca,null,null,null,null,0,null,null
+Lima,Cajatambo,null,null,null,null,0,null,null
+Lima,Canta,null,null,null,null,0,null,null
+Lima,Cañete,null,null,null,null,0,null,null
+Lima,Huaral,null,null,null,null,0,null,null
+Lima,Huarochirí,null,null,null,null,0,null,null
+Lima,Huaura,null,null,null,null,0,null,null
+Lima,Oyón,null,null,null,null,0,null,null
+Lima,Yauyos,null,null,null,null,0,null,null
+Loreto,Maynas,null,null,null,null,0,null,null
+Loreto,Alto Amazonas,null,null,null,null,0,null,null
+Loreto,Loreto,null,null,null,null,0,null,null
+Loreto,Mariscal Ramón Castilla,null,null,null,null,0,null,null
+Loreto,Requena,null,null,null,null,0,null,null
+Loreto,Ucayali,null,null,null,null,0,null,null
+Loreto,Datem del Marañón,null,null,null,null,0,null,null
+Loreto,Putumayo,null,null,null,null,0,null,null
+Madre de Dios,Tambopata,null,null,null,null,0,null,null
+Madre de Dios,Manu,null,null,null,null,0,null,null
+Madre de Dios,Tahuamanu,null,null,null,null,0,null,null
+Moquegua,Mariscal Nieto,Moquegua,MUNICIPALIDAD PROVINCIAL DE MARISCAL NIETO ?MOQUEGUA,5621392,NO,0,5/11/2020,SI
+Moquegua,Mariscal Nieto,Carumas,MUNICIPALIDAD DISTRITAL DE CARUMAS,7272343,NO,0,5/11/2020,SI
+Moquegua,Mariscal Nieto,Cuchumbaya,MUNICIPALIDAD DISTRITAL DE CUCHUMBAYA,1300392,NO,0,5/11/2020,SI
+Moquegua,Mariscal Nieto,Samegua,MUNICIPALIDAD DISTRITAL DE SAMEGUA,3332592,NO,0,5/12/2020,SI
+Moquegua,Mariscal Nieto,San Cristóbal,MUNICIPALIDAD DISTRITAL DE SAN CRISTOBAL,7324522,NO,0,5/12/2020,SI
+Moquegua,Mariscal Nieto,Torata,MUNICIPALIDAD DISTRITAL DE TORATA,3332432,NO,0,05/13/20,SI
+Moquegua,General Sánchez Cerro,Omate,MUNICIPALIDAD PROVINCIAL DE GENERAL SANCHEZ CERRO OMATE,5465221,SI,3500,05/13/20,NO
+Moquegua,General Sánchez Cerro,Chojata,MUNICIPALIDAD DISTRITAL DE CHOJATA,9855232,NO,0,05/13/20,SI
+Moquegua,General Sánchez Cerro,Coalaque,MUNICIPALIDAD DISTRITAL DE COALAQUE,2310011,NO,0,05/13/20,SI
+Moquegua,General Sánchez Cerro,Ichuña,MUNICIPALIDAD DISTRITAL DE ICHUÑA,2125666,NO,0,05/13/20,SI
+Moquegua,General Sánchez Cerro,La Capilla,MUNICIPALIDAD DISTRITAL DE LA CAPILLA,3427767,NO,0,05/13/20,SI
+Moquegua,General Sánchez Cerro,Lloque,MUNICIPALIDAD DISTRITAL DE LLOQUE,3375671,NO,0,05/13/20,SI
+Moquegua,General Sánchez Cerro,Matalaque,MUNICIPALIDAD DISTRITAL DE MATALAQUE,4543100,NO,0,05/14/20,SI
+Moquegua,General Sánchez Cerro,Puquina,MUNICIPALIDAD DISTRITAL DE PUQUINA,2037392,SI,5000,05/14/20,NO
+Moquegua,General Sánchez Cerro,Quinistaquillas,MUNICIPALIDAD DISTRITAL DE QUINISTAQUILLAS,4044232,NO,0,05/14/20,SI
+Moquegua,General Sánchez Cerro,Ubinas,MUNICIPALIDAD DISTRITAL DE UBINAS,9852321,NO,0,05/15/20,SI
+Moquegua,General Sánchez Cerro,Yunga,MUNICIPALIDAD DISTRITAL DE YUNGA,3310221,NO,0,05/15/20,SI
+Moquegua,Ilo,Ilo,MUNICIPALIDAD PROVINCIAL DE ILO,3025621,NO,0,05/16/20,SI
+Moquegua,Ilo,El Algarrobal,MUNICIPALIDAD DISTRITAL DE EL ALGARROBAL,3427302,NO,0,05/16/20,SI
+Moquegua,Ilo,Pacocha,MUNICIPALIDAD DISTRITAL DE PACOCHA,4027727,NO,0,05/16/20,SI
+Pasco,Pasco,null,null,null,null,0,null,null
+Pasco,Daniel Alcides Carrión,null,null,null,null,0,null,null
+Pasco,Oxapampa,null,null,null,null,0,null,null
+Piura,Piura,null,null,null,null,0,null,null
+Piura,Ayabaca,null,null,null,null,0,null,null
+Piura,Huancabamba,null,null,null,null,0,null,null
+Piura,Morropón,null,null,null,null,0,null,null
+Piura,Paita,null,null,null,null,0,null,null
+Piura,Sullana,null,null,null,null,0,null,null
+Piura,Talara,null,null,null,null,0,null,null
+Piura,Sechura,null,null,null,null,0,null,null
+Puno,Puno,null,null,null,null,0,null,null
+Puno,Azángaro,null,null,null,null,0,null,null
+Puno,Carabaya,null,null,null,null,0,null,null
+Puno,Chucuito,null,null,null,null,0,null,null
+Puno,El Collao,null,null,null,null,0,null,null
+Puno,Huancané,null,null,null,null,0,null,null
+Puno,Lampa,null,null,null,null,0,null,null
+Puno,Melgar,null,null,null,null,0,null,null
+Puno,Moho,null,null,null,null,0,null,null
+Puno,San Antonio de Putina,null,null,null,null,0,null,null
+Puno,San Román,null,null,null,null,0,null,null
+Puno,Sandia,null,null,null,null,0,null,null
+Puno,Yunguyo,null,null,null,null,0,null,null
+San Martín,Moyobamba,null,null,null,null,0,null,null
+San Martín,Bellavista,null,null,null,null,0,null,null
+San Martín,El Dorado,null,null,null,null,0,null,null
+San Martín,Huallaga,null,null,null,null,0,null,null
+San Martín,Lamas,null,null,null,null,0,null,null
+San Martín,Mariscal Cáceres,null,null,null,null,0,null,null
+San Martín,Picota,null,null,null,null,0,null,null
+San Martín,Rioja,null,null,null,null,0,null,null
+San Martín,San Martín,null,null,null,null,0,null,null
+San Martín,Tocache,null,null,null,null,0,null,null
+Tacna,Tacna,Tacna,MUNICIPALIDAD PROVINCIAL DE TACNA,4627392,NO,0,05/16/20,SI
+Tacna,Tacna,Alto de la Alianza,MUNICIPALIDAD DISTRITAL DE ALTO DE LA ALIANZA,7272342,NO,0,05/16/20,SI
+Tacna,Tacna,Calana,MUNICIPALIDAD DISTRITAL DE CALANA,1600392,NO,0,05/16/20,SI
+Tacna,Tacna,Ciudad Nueva,MUNICIPALIDAD DISTRITAL DE CIUDAD NUEVA,2162592,SI,5000,05/18/20,NO
+Tacna,Tacna,Inclan,MUNICIPALIDAD DISTRITAL DE INCLAN,4534555,SI,3500,05/18/20,NO
+Tacna,Tacna,Pachia,MUNICIPALIDAD DISTRITAL DE PACHIA,5532434,NO,0,05/18/20,SI
+Tacna,Tacna,Palca,MUNICIPALIDAD DISTRITAL DE PALCA,5465665,NO,0,05/18/20,SI
+Tacna,Tacna,Pocollay,MUNICIPALIDAD DISTRITAL DE POCOLLAY,7655434,NO,0,05/18/20,SI
+Tacna,Tacna,Sama,MUNICIPALIDAD DISTRITAL DE SAMA,6560044,NO,0,05/19/20,SI
+Tacna,Tacna,Coronel Gregorio Albarracín Lanchipa,MUNICIPALIDAD DISTRITAL DE CORONEL GREGORIO ALBARRACIN LANCHIPA,4235666,NO,0,05/19/20,SI
+Tacna,Tacna,La Yarada los Palos,MUNICIPALIDAD DISTRITAL DE LAYARADA LOS PALOS,5657767,NO,0,05/19/20,SI
+Tacna,Candarave,Candarave,MUNICIPALIDAD PROVINCIAL DE CANDARAVE,6575676,NO,0,05/19/20,SI
+Tacna,Candarave,Cairani,MUNICIPALIDAD DISTRITAL DE CAIRANI,4543125,NO,0,05/20/20,SI
+Tacna,Candarave,Camilaca,MUNICIPALIDAD DISTRITAL DE CAMILACA,4627392,NO,0,05/20/20,SI
+Tacna,Candarave,Curibaya,MUNICIPALIDAD DISTRITAL DE CURIBAYA,4344242,SI,3000,05/20/20,NO
+Tacna,Candarave,Huanuara,MUNICIPALIDAD DISTRITAL DE HUANUARA,4022122,NO,0,05/21/20,SI
+Tacna,Candarave,Quilahuani,MUNICIPALIDAD DISTRITAL DE QUILAHUANI,9852310,NO,0,05/21/20,SI
+Tacna,Jorge Basadre,Locumba,MUNICIPALIDAD PROVINCIAL DE JORGE BASADRE ?LOCUMBA,4210221,NO,0,05/21/20,SI
+Tacna,Jorge Basadre,Ilabaya,MUNICIPALIDAD DISTRITAL DE ILABAYA,3025300,NO,0,05/21/20,SI
+Tacna,Jorge Basadre,Ite,MUNICIPALIDAD DISTRITAL DE ITE,3027302,NO,0,05/21/20,SI
+Tacna,Tarata,Tarata,MUNICIPALIDAD PROVINCIAL DE TARATA,5224727,NO,0,05/21/20,SI
+Tacna,Tarata,Héroes Albarracín,MUNICIPALIDAD DISTRITAL DE HEROES ALBARRACIN,4324325,SI,2500,05/22/20,NO
+Tacna,Tarata,Estique,MUNICIPALIDAD DISTRITAL DE ESTIQUE,9566705,NO,0,05/22/20,SI
+Tacna,Tarata,Estique-Pampa,MUNICIPALIDAD DISTRITAL DE ESTIQUE?PAMPA,4332432,NO,0,05/22/20,SI
+Tacna,Tarata,Sitajara,MUNICIPALIDAD DISTRITAL DE SITAJARA,6574631,NO,0,05/22/20,SI
+Tacna,Tarata,Susapaya,MUNICIPALIDAD DISTRITAL DE SUSAPAYA,6576590,NO,0,05/22/20,SI
+Tacna,Tarata,Tarucachi,MUNICIPALIDAD DISTRITAL DE TARUCACHI,7879554,NO,0,05/23/20,SI
+Tacna,Tarata,Ticaco,MUNICIPALIDAD DISTRITAL DE TICACO,5543332,NO,0,05/23/20,SI
+Tumbes,Tumbes,Tumbes,MUNICIPALIDAD DISTRITAL DE TUMBES,25432528,NO,0,05/23/20,SI
+Tumbes,Tumbes,Tumbes,MUNICIPALIDAD DISTRITAL DE TUMBES,40355238,NO,0,05/23/20,NO
+Tumbes,Tumbes,Tumbes,MUNICIPALIDAD DISTRITAL DE TUMBES,50226237,NO,0,05/24/20,SI
+Tumbes,Tumbes,Corrales,MUNICIPALIDAD DE CORRALES,57594474,NO,0,05/24/20,SI
+Tumbes,Tumbes,Corrales,MUNICIPALIDAD DE CORRALES,42404574,SI,2500,05/24/20,NO
+Tumbes,Tumbes,Corrales,MUNICIPALIDAD DE CORRALES,53432235,NO,0,05/24/20,SI
+Tumbes,Tumbes,Corrales,MUNICIPALIDAD DE CORRALES,70458493,NO,0,05/27/20,NO
+Tumbes,Tumbes,Corrales,MUNICIPALIDAD DE CORRALES,91809743,NO,0,05/27/20,SI
+Tumbes,Tumbes,La Cruz,MUNICIPALIDAD DE LA CRUZ,51026952,NO,0,05/27/20,SI
+Tumbes,Tumbes,La Cruz,MUNICIPALIDAD DE LA CRUZ,96291415,NO,0,05/28/20,SI
+Tumbes,Tumbes,La Cruz,MUNICIPALIDAD DE LA CRUZ,91819390,NO,0,05/28/20,SI
+Tumbes,Tumbes,Pampas de Hospital,MUNICIPALIDAD DE PAMPAS DE HOSPITAL,40707357,SI,3000,05/28/20,NO
+Tumbes,Tumbes,Pampas de Hospital,MUNICIPALIDAD DE PAMPAS DE HOSPITAL,79710530,NO,0,05/28/20,SI
+Tumbes,Tumbes,Pampas de Hospital,MUNICIPALIDAD DE PAMPAS DE HOSPITAL,55028527,NO,0,05/28/20,NO
+Tumbes,Tumbes,Pampas de Hospital,MUNICIPALIDAD DE PAMPAS DE HOSPITAL,82336306,NO,0,05/28/20,SI
+Tumbes,Tumbes,San Jacinto,MUNICIPALIDAD DE SAN JACINTO,37580972,NO,0,05/28/20,SI
+Tumbes,Tumbes,San Jacinto,MUNICIPALIDAD DE SAN JACINTO,96741806,NO,0,05/29/20,NO
+Tumbes,Tumbes,San Jacinto,MUNICIPALIDAD DE SAN JACINTO,61884825,NO,0,05/29/20,SI
+Tumbes,Tumbes,San Juan de la Virgen,MUNICIPALIDAD DE SAN JUAN DE LA VIRGEN,51462435,NO,0,05/29/20,SI
+Tumbes,Contralmirante Villar,Zorritos,MUNICIPALIDAD DE ZORRITOS,88988942,NO,0,05/29/20,SI
+Tumbes,Contralmirante Villar,Casitas,MUNICIPALIDAD DE CASITAS,37930069,NO,0,05/30/20,SI
+Tumbes,Contralmirante Villar,Casitas,MUNICIPALIDAD DE CASITAS,31751028,NO,0,05/30/20,SI
+Tumbes,Contralmirante Villar,Canoas de Punta Sal,MUNICIPALIDAD DE CANOAS DE PUNTA SAL,55015208,NO,0,05/30/20,NO
+Tumbes,Contralmirante Villar,Canoas de Punta Sal,MUNICIPALIDAD DE CANOAS DE PUNTA SAL,22579931,NO,0,05/30/20,SI
+Tumbes,Contralmirante Villar,Canoas de Punta Sal,MUNICIPALIDAD DE CANOAS DE PUNTA SAL,53729180,NO,0,05/31/20,SI
+Tumbes,Contralmirante Villar,Canoas de Punta Sal,MUNICIPALIDAD DE CANOAS DE PUNTA SAL,88612021,NO,0,05/31/20,SI
+Tumbes,Zarumilla,Zarumilla,MUNICIPALIDAD DE ZARUMILLA,32157909,NO,0,05/31/20,SI
+Tumbes,Zarumilla,Aguas Verdes,MUNICIPALIDAD DE AGUAS VERDES,29943635,NO,0,05/31/20,NO
+Tumbes,Zarumilla,Aguas Verdes,MUNICIPALIDAD DE AGUAS VERDES,68278159,SI,3500,05/31/20,NO
+Tumbes,Zarumilla,Aguas Verdes,MUNICIPALIDAD DE AGUAS VERDES,15599573,NO,0,6/01/2020,SI
+Tumbes,Zarumilla,Aguas Verdes,MUNICIPALIDAD DE AGUAS VERDES,87771917,NO,0,6/01/2020,SI
+Tumbes,Zarumilla,Matapalo,MUNICIPALIDAD DE MATAPALO,85502543,NO,0,6/01/2020,SI
+Tumbes,Zarumilla,Matapalo,MUNICIPALIDAD DE MATAPALO,87814510,NO,0,6/02/2020,NO
+Tumbes,Zarumilla,Matapalo,MUNICIPALIDAD DE MATAPALO,33345767,NO,0,6/02/2020,SI
+Tumbes,Zarumilla,Papayal,MUNICIPALIDAD DE PAPAYAL,96233062,NO,0,6/02/2020,SI
+Tumbes,Zarumilla,Papayal,MUNICIPALIDAD DE PAPAYAL,87392295,SI,5000,6/02/2020,NO
+Ucayali,Coronel Portillo,null,null,null,null,0,null,null
+Ucayali,Atalaya,null,null,null,null,0,null,null
+Ucayali,Padre Abad,null,null,null,null,0,null,null
+Ucayali,Purús,null,null,null,null,0,null,null
