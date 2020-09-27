@@ -1,4 +1,4 @@
-Departamento,Provincia,Distrito,Municipalidades,DNI,Funcionario,Sueldo,Fecha de entrega,Pobre,Mes de entrega
+departamento,provincia,distrito,municipio,dni,funcionario,sueldo,fecha,poor,mesEntrega
 Amazonas,Chachapoyas,null,null,null,null,0,null,null,null
 Amazonas,Bagua,null,null,null,null,0,null,null,null
 Amazonas,Bongará,null,null,null,null,0,null,null,null
